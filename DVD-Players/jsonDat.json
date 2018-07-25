@@ -1,1 +1,4871 @@
-[]
+[
+  {
+    "brand": "Samsung",
+    "model": "UBDM9500",
+    "url": "https://www.kmart.com/samsung-ubdm9500-4k-udh-blu-ray-player/p-SPM10412195718?plpSellerId=Kmart&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "BDP-S6700-RB",
+    "url": "https://www.kmart.com/sony-bdp-s6700-rb-refurbished-4k-smart/p-A015569135?plpSellerId=Kmart&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BD-J5700/ZA",
+    "url": "https://www.kmart.com/samsung-smart-blu-ray-player-w-built-in/p-05773505000P?plpSellerId=Kmart&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BD-J5100/ZA",
+    "url": "https://www.kmart.com/samsung-smart-blu-ray-player-bd-j5100/p-05773504000P?plpSellerId=Kmart&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "BDP-S1700A-RB",
+    "url": "https://www.kmart.com/sony-bdp-s1700a-rb-refurbished-blu-ray/p-A010005023?plpSellerId=Kmart&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BD-JM51-RB",
+    "url": "https://www.kmart.com/samsung-bd-jm51-rb-refurbished-blu-ray/p-A010003777?plpSellerId=Kmart&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BD-JM57-RB",
+    "url": "https://www.kmart.com/samsung-bd-jm57-rb-refurbished-blu-ray/p-A010005047?plpSellerId=Kmart&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "BP320",
+    "url": "https://www.kmart.com/lg-blu-ray-disc-8482-player-bp320/p-05757272000P?plpSellerId=Sears&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "BP350",
+    "url": "https://www.kmart.com/lg-blu-ray-disc-8482-player-w-streaming-services/p-05773515000P?plpSellerId=Kmart&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "BDP7502F7",
+    "url": "https://www.kmart.com/philips-bdp7502f7-4k-ultra-hd-blu-ray-player/p-A013204623?plpSellerId=Kmart&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BDJ6300ZA",
+    "url": "https://www.kmart.com/samsung-bdj6300za-smart-blu-ray-player/p-SPM10379925820?plpSellerId=Kmart&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "BDP-S3700-RB",
+    "url": "https://www.kmart.com/sony-bdp-s3700-rb-refurbished-blu-ray/p-A015569153?plpSellerId=Kmart&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "BP255",
+    "url": "https://www.kmart.com/lg-blu-ray-disc-8482-player-w-streaming-services/p-05773516000P?plpSellerId=Kmart&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "BPM55A-RB",
+    "url": "https://www.kmart.com/lg-bpm55a-rb-refurbished-3d-capable-blu/p-A010005191?plpSellerId=Kmart&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BD-JM63-RB",
+    "url": "https://www.kmart.com/samsung-bd-jm63-rb-refurbished-4k-upscale/p-A010005194?plpSellerId=Kmart&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UBDM8500ZA",
+    "url": "https://www.kmart.com/samsung-ubdm8500-samsung-ubd-m8500-4k-uhd-blu/p-SPM10657765320?plpSellerId=OneCallcom&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "UBK90",
+    "url": "https://www.kmart.com/lg-ubk90-4k-ultra-hd-blu-ray-player/p-A021669494?plpSellerId=Kmart&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "XLNT",
+    "model": "PRO100RMPCBR-XLNTIdea-MW",
+    "url": "https://www.kmart.com/xlnt-idea-xlnt-idea-nexis-pro-100-blu/p-SPM6230958403?plpSellerId=Mwavecom&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "BDP-S1100",
+    "url": "https://www.kmart.com/sony-blu-ray-disc-player-tvs-electronics-televisions/p-SPM10561395820?plpSellerId=Action Packaged Inc&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "400534107",
+    "url": "https://www.kmart.com/philips-bdp2100-f7-blu-ray-disc-dvd-player-black/p-SPM9025966613?plpSellerId=Action Packaged Inc&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "XLNT",
+    "model": "BLJKBR-XLNTIdea-MW",
+    "url": "https://www.kmart.com/xlnt-idea-xlnt-idea-nexis-pro-blackjack-blu/p-SPM7663753722?plpSellerId=Mwavecom&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "49BDL4050D",
+    "url": "https://www.kmart.com/philips-signage-solutions-d-line-49bdl4050d-49-quot-class/p-SPM17426697707?plpSellerId=DigitalShopper&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "43BDL4050D",
+    "url": "https://www.kmart.com/philips-signage-solutions-d-line-43bdl4050d-43-quot-class/p-SPM17426173007?plpSellerId=DigitalShopper&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "UBP-X1000ES",
+    "url": "https://www.kmart.com/sony-ubp-x1000es-sony-ubpx1000es-4k-uhd-blu/p-SPM8986808202?plpSellerId=OneCallcom&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OSSPRCK60074614",
+    "url": "https://www.kmart.com/lg-bd570-all-blu-ray-zone-a-b/p-SPM5096317801?plpSellerId=Action Packaged Inc&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Tascam",
+    "model": "BD-01U",
+    "url": "https://www.kmart.com/tascam-bd-01u-blu-ray-dvd-and-cd/p-SPM15219649224?plpSellerId=Ami Ventures Inc&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UBD-M9700",
+    "url": "https://www.kmart.com/samsung-ubd-m9700-4k-ultra-hd-blu-ray/p-A010656191?plpSellerId=WALTSCOM&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "generic",
+    "model": "BD390",
+    "url": "https://www.kmart.com/generic-bd-390-network-blu-ray-disc-player/p-SPM5743746001?plpSellerId=Action Packaged Inc&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "KINETIK",
+    "model": "HC2000-BLU",
+    "url": "https://www.kmart.com/kinetik-blu-2000w-12v-power/p-SPM8839123523?plpSellerId=MyGoods&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Seagate",
+    "model": "ST8000NM0055-20PK",
+    "url": "https://www.kmart.com/seagate-st8000nm0105-8-tb-3.5inch-internal-hard/p-SPM11531128625?plpSellerId=DigitalShopper&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "VIZIO",
+    "model": "400386200",
+    "url": "https://www.kmart.com/vizio-3d-blu-ray-player-with-wireless/p-SPM9025968313?plpSellerId=Action Packaged Inc&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "generic",
+    "model": "BD590",
+    "url": "https://www.kmart.com/generic-bluray-disc-player-bdlive-1080p-250gb-hd/p-SPM4767143901?plpSellerId=Action Packaged Inc&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "UBPX800",
+    "url": "https://www.kmart.com/by-sony-bpvsoubpx800-sony-ubp-x800-4k-wi/p-SPM8935136029?plpSellerId=OneCallcom&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UBD-M7500-ZA",
+    "url": "https://www.kmart.com/samsung-ubd-m7500-ultra-high-definition-4k-universal/p-SPM10424597118?plpSellerId=WALTSCOM&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Panasonic",
+    "model": "ZIDM1WEBC8",
+    "url": "https://www.kmart.com/panasonic-360-2k-4k-smart-network-multi-system/p-SPM8857062023?plpSellerId=Edealszone LLC&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "KINETIK",
+    "model": "HC1400-BLU",
+    "url": "https://www.kmart.com/kinetik-blu-1400w-12v-power/p-SPM8839124623?plpSellerId=MyGoods&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UBD-M8500",
+    "url": "https://www.kmart.com/samsung-ubd-m8500-4k-ultra-hd-blu/p-SPM10412197618?plpSellerId=WALTSCOM&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "PROMAX",
+    "model": "PX-HU14HB128-BL",
+    "url": "https://www.kmart.com/promax-hb-m1-mini-28h-set-blu/p-SPM8819587323?plpSellerId=MyGoods&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Panasonic",
+    "model": "DMP-BD75",
+    "url": "https://www.kmart.com/panasonic-blu-ray-disc-trade-player/p-05757305000P?plpSellerId=Action Packaged Inc&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "UBPX700",
+    "url": "https://www.kmart.com/sony-ubpx700-ubp-x700-4k-uhd-blu-ray/p-A015934203?plpSellerId=OneCallcom&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BD-J6300",
+    "url": "https://www.kmart.com/samsung-bd-j6300-tvs-electronics-home-theater-audio/p-SPM10389605918?plpSellerId=WALTSCOM&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "UBK80",
+    "url": "https://www.kmart.com/lg-ubk80-4k-ultra-hd-blu-ray-player/p-A020567052?plpSellerId=BeachCamera&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "BDPS790",
+    "url": "https://www.kmart.com/sony-bdp-s790-3d-blu-ray-player-with/p-SPM10348536120?plpSellerId=Action Packaged Inc&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "CVID",
+    "model": "400386193",
+    "url": "https://www.kmart.com/cvid-bd780-all-multi-region-code-zone/p-SPM7695144022?plpSellerId=Action Packaged Inc&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB00NUNILZK",
+    "url": "https://www.kmart.com/time-life-the-wonder-years-the-complete-series/p-SPM11961950119?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DMCOM",
+    "model": "101199",
+    "url": "https://www.kmart.com/dmcom-vizio-vbr122-blu-ray-player-with-wireless/p-SPM9025178413?plpSellerId=Action Packaged Inc&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ZIDMBQYKG6",
+    "url": "https://www.kmart.com/warner-manufacturing-merlin-the-complete-series-bd-blu/p-SPM8854188423?plpSellerId=Edealszone LLC&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sharp",
+    "model": "BDHP21U",
+    "url": "https://www.kmart.com/sharp-blu-ray-disc-153-player-aquos-174/p-05757968000P?plpSellerId=Action Packaged Inc&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UBD-KM85CZAR",
+    "url": "https://www.kmart.com/samsung-ubdkm85czarrb-samsung-ultra-hd-streaming-bluray-player/p-A017164334?plpSellerId=Focus Camera&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DMCOM",
+    "model": "101180",
+    "url": "https://www.kmart.com/dmcom-vizio-vbr133-3d-blu-ray-player-with/p-SPM9025965813?plpSellerId=Action Packaged Inc&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "BDP2105F7",
+    "url": "https://www.kmart.com/philips-bdp2105-blu-ray-disc-player-upscaling-ethernet/p-SPM7963217627?plpSellerId=Action Packaged Inc&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BD-D6500",
+    "url": "https://www.kmart.com/samsung-3d-blu-ray-disc-reg-player/p-05757073000P?plpSellerId=Action Packaged Inc&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB000CPH9Y8",
+    "url": "https://www.kmart.com/shout-factory-dick-cavett-show-comic-legends/p-SPM14528459215?plpSellerId=zabiva&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "LGUP875",
+    "url": "https://www.kmart.com/lg-up875-4k-ultra-hd-3d-blu-ray/p-A011702808?plpSellerId=Focus Camera&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Boss",
+    "model": "ZID02CZV78",
+    "url": "https://www.kmart.com/boss-audio-boss-ch-1-stereo-super-chorus/p-SPM8884999123?plpSellerId=Ami Ventures Inc&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "ZID77RSLB7M",
+    "url": "https://www.kmart.com/lg-zid77rslb7m-2017-lg-up875-4k-ultra-hd/p-A015989553?plpSellerId=Edealszone LLC&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "MODB00TYFCJ8S",
+    "url": "https://www.kmart.com/sony-black-blu-ray-disc-player-bdp-s3500/p-SPM9458489122?plpSellerId=Action Packaged Inc&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "UP870",
+    "url": "https://www.kmart.com/lg-up870-3d-ultra-high-definition-blu-ray/p-A009860666?plpSellerId=WALTSCOM&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "ZIDB2MMU1M",
+    "url": "https://www.kmart.com/sylvania-sdvd9957-sylvania-sdvd9957-9inch-dual-screen-portable/p-SPM8740655908?plpSellerId=Edealszone LLC&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Kulter",
+    "model": "ADIB0000BV1YZ",
+    "url": "https://www.kmart.com/kultur-broadway-theatre-archive-scarecrow-tvs-electronics/p-SPM14525381315?plpSellerId=zabiva&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Legacy",
+    "model": "ZID1RJLA3O",
+    "url": "https://www.kmart.com/legacy-home-furnishing-and-decor-legacy-lmr15.1-high/p-SPM8847801023?plpSellerId=Edealszone LLC&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Panasonic",
+    "model": "DMP-BDT270",
+    "url": "https://www.kmart.com/panasonic-smart-network-4k-upscaling-3d-blu/p-SPM4028505021?plpSellerId=Edealszone LLC&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "ZID77KXYTGG",
+    "url": "https://www.kmart.com/lg-zid77kxytgg-2017-lg-4k-ultra-hd-3d/p-A015982662?plpSellerId=Edealszone LLC&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Razor&Trade;",
+    "model": "ZIDBCX842K",
+    "url": "https://www.kmart.com/razor-trade-razor-360-flash-rider-seasonal-christmas-holiday/p-SPM8755456802?plpSellerId=Edealszone LLC&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ASONBDPS6700K1",
+    "url": "https://www.kmart.com/sony-asonbdps6700k1-sony-bdp-s6700-4k-upscaling-3d/p-A023040248?plpSellerId=Focus Camera&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Stearns",
+    "model": "3000004484",
+    "url": "https://www.kmart.com/stearns-inc-6-packs-16x14-3-8-blu-cushion/p-SPM8826428623?plpSellerId=Farm and City Supply&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB013BPR7OC",
+    "url": "https://www.kmart.com/lions-gate-mad-men-the-complete-collection/p-SPM14538009315?plpSellerId=zabiva&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Anchor",
+    "model": "ADIB00ND9O9MU",
+    "url": "https://www.kmart.com/anchor-bay-entertainment-adib00nd9o9mu-walking-dead-seasons-1/p-A017172034?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB013BPR7QU",
+    "url": "https://www.kmart.com/lions-gate-mad-men-the-complete-collection-dvd/p-SPM8572308002?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "BDF5700",
+    "url": "https://www.kmart.com/samsung-bd-f5700-wi-fi-blu-ray/p-SPM14853479828?plpSellerId=Action Packaged Inc&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "E3SNBDPS1700",
+    "url": "https://www.kmart.com/sony-bdps1700-streaming-bluray-disc-player-w-glass/p-SPM10256371018?plpSellerId=Action Packaged Inc&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00S89IVTM",
+    "url": "https://www.kmart.com/universal-studios-home-entert-matlock-complete-series/p-SPM10480334908?plpSellerId=zabiva&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Panasonic",
+    "model": "885170000000",
+    "url": "https://www.kmart.com/panasonic-dmp-bd87-ultra-fast-booting-blu/p-SPM10569773420?plpSellerId=Action Packaged Inc&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "BDPS6700",
+    "url": "https://www.kmart.com/sony-bdp-s6700-blu-ray-disc-player/p-SPM10344289720?plpSellerId=OneCallcom&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BP125",
+    "model": "BP125",
+    "url": "https://www.kmart.com/bp125-blu-ray-disk-dvd-1080p-player/p-SPM7929424513?plpSellerId=Action Packaged Inc&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB015TDBRSQ",
+    "url": "https://www.kmart.com/a-e-video-2105-world-series-collection-blu/p-SPM14521394315?plpSellerId=zabiva&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Nite",
+    "model": "NHO03R3",
+    "url": "https://www.kmart.com/nite-ize-inc-nite-ize-inc-6-packs/p-SPM8870242923?plpSellerId=Farm and City Supply&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SYLVANIA(R)",
+    "model": "CURSDVD1332",
+    "url": "https://www.kmart.com/sylvania-sdvd1332-13.3inch-swivel-screen-portable-dvd-player/p-SPM9136714117?plpSellerId=DiddlyDeals&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Panasonic",
+    "model": "DMPBD871",
+    "url": "https://www.kmart.com/panasonic-dmp-bd871-blu-ray-dvd-player-with/p-SPM11556875819?plpSellerId=Action Packaged Inc&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "The",
+    "model": "BX-ST14CSP65-BL",
+    "url": "https://www.kmart.com/the-box-cusp-35x65mm-blu-tvs-electronics/p-SPM8832246923?plpSellerId=MyGoods&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "The",
+    "model": "BX-ST14DBM50-BL",
+    "url": "https://www.kmart.com/the-box-cusp-dm-50mm-blu-tvs/p-SPM8819422123?plpSellerId=MyGoods&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB018S7AREK",
+    "url": "https://www.kmart.com/universal-studios-warehouse-13-the-complete-series-blu/p-SPM8657759402?plpSellerId=zabiva&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BluSens",
+    "model": "DVDPL505",
+    "url": "https://www.kmart.com/blusens-dvdpl505-funai-nb620fx4-wifi-blu-ray-player/p-SPM10683329220?plpSellerId=Action Packaged Inc&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Time",
+    "model": "ADIB01H3KUHQQ",
+    "url": "https://www.kmart.com/time-life-hee-haw-the-collector-s/p-SPM14533185615?plpSellerId=zabiva&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Schleich",
+    "model": "14567",
+    "url": "https://www.kmart.com/schleich-north-america-schleich-north-america-4-packs/p-SPM8867897723?plpSellerId=Farm and City Supply&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Next",
+    "model": "ADIB00JHH1VDC",
+    "url": "https://www.kmart.com/shout-factory-welcome-back-kotter-shout/p-SPM14549388315?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB000E6ESC6",
+    "url": "https://www.kmart.com/sky-fox-technologies-remington-steele-season-3/p-SPM14543256115?plpSellerId=zabiva&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Seattle",
+    "model": "020502",
+    "url": "https://www.kmart.com/seattle-sports-020502-downstream-duffel-md-blu/p-SPM8896654817?plpSellerId=FastMedia&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SYLVANIA(R)",
+    "model": "NTSSWRA47935",
+    "url": "https://www.kmart.com/sylvania-r-sdvd9060-combo-black-9-swivel-screen-portable/p-A010766972?plpSellerId=Direct  Advantage Inc&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA44707",
+    "url": "https://www.kmart.com/sylvania-sdvd1052-purple-10inch-portable-dvd-player/p-SPM10428611908?plpSellerId=DiddlyDeals&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "flp",
+    "model": "8873-48",
+    "url": "https://www.kmart.com/flp-llc-8873-48-flp-8873-12x12-blu/p-SPM10672235120?plpSellerId=Rons Home And Hardware&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Royal",
+    "model": "ZID0WIAU1O",
+    "url": "https://www.kmart.com/royal-100x-29171y-10-sheet-full-size/p-SPM8849428123?plpSellerId=Edealszone LLC&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "MILL",
+    "model": "ADIB06ZXTH52H",
+    "url": "https://www.kmart.com/mill-creek-ent-rockford-files-complete-series-blu/p-SPM14208809111?plpSellerId=zabiva&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB00F5CQ78C",
+    "url": "https://www.kmart.com/time-life-mama-s-family-the-complete-collection-dvd/p-SPM12509767117?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB0126M38H6",
+    "url": "https://www.kmart.com/universal-studios-heroes-the-complete-series-blu-ray/p-SPM8657825002?plpSellerId=zabiva&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ABBADO,CLAUDIO/LFO/KOZENA,MAGDALENA/WANG,YUJA",
+    "model": "ZID4P96WJ0",
+    "url": "https://www.kmart.com/abbado-claudio-lfo-kozena-magdalena-wang-yuja-abbado-conducts-mahler-symphonies-1-7-blu/p-SPM8854105923?plpSellerId=Edealszone LLC&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00Q2OQNEU",
+    "url": "https://www.kmart.com/universal-studios-battlestar-galactica-the-remastered-collection-blu/p-SPM8416431702?plpSellerId=zabiva&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA29657",
+    "url": "https://www.kmart.com/sylvania-7inch-swivel-screen-portable-dvd-player-black/p-SPM10175526620?plpSellerId=MyGoods&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "True",
+    "model": "PDL30QT",
+    "url": "https://www.kmart.com/true-value-mfg-company-4-packs-pdl-qt/p-SPM8826224723?plpSellerId=Farm and City Supply&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA41539",
+    "url": "https://www.kmart.com/sylvania-7inch-portable-dvd-player-with-integrated-handle/p-SPM8709219014?plpSellerId=eCopUSAcom&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "PBS",
+    "model": "ADIB005LZW79Q",
+    "url": "https://www.kmart.com/pbs-faith-and-doubt-at-ground-zero/p-SPM14530343015?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB0131RBZ0W",
+    "url": "https://www.kmart.com/time-life-midnight-special-1972-11/p-SPM14539000515?plpSellerId=zabiva&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "PBS",
+    "model": "ADIB0102K61SC",
+    "url": "https://www.kmart.com/pbs-masterpiece-classic-downton-abbey-seasons/p-SPM14538546415?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Testor's",
+    "model": "8862C",
+    "url": "https://www.kmart.com/testor-s-testor-corporation-6-packs-3pk-blu-appl/p-SPM8861524023?plpSellerId=Farm and City Supply&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB0126M38LW",
+    "url": "https://www.kmart.com/universal-studios-heroes-the-complete-series-dvd-tvs/p-SPM8572307102?plpSellerId=zabiva&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA32395",
+    "url": "https://www.kmart.com/sylvania-sdvd7060-combo-pink-7inch-swivel-screen/p-SPM8929345629?plpSellerId=MyGoods&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "flp",
+    "model": "8869-48",
+    "url": "https://www.kmart.com/flp-llc-8869-48-flp-8869-blu-washer/p-SPM10672281320?plpSellerId=Rons Home And Hardware&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "S",
+    "model": "70195",
+    "url": "https://www.kmart.com/s-c-johnson-wax-8-packs-23oz-blu/p-SPM8825012023?plpSellerId=Farm and City Supply&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ENTERTAINMENT",
+    "model": "ADIB01AKUNOKM",
+    "url": "https://www.kmart.com/e1-entertainment-heartland-2007-e1-entertainment/p-SPM14533147215?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00UITXC26",
+    "url": "https://www.kmart.com/paramount-studio-l-word-complete-series-dvd/p-SPM8512676202?plpSellerId=zabiva&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Ncstar",
+    "model": "VDBRB",
+    "url": "https://www.kmart.com/ncstar-vdbrb-vism-micro-red-n-blu/p-SPM9417223422?plpSellerId=eCopUSAcom&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Manufacturers",
+    "model": "19715",
+    "url": "https://www.kmart.com/cresline-19715-tubing-poly-ce-blu-cts-3-4x100/p-SPM12500521330?plpSellerId=Farm and City Supply&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "C.H.",
+    "model": "10396",
+    "url": "https://www.kmart.com/hanson-c-h-co-hanson-c-h-co/p-SPM8868530623?plpSellerId=Farm and City Supply&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "EASTERN",
+    "model": "ADIB00RDEIVYI",
+    "url": "https://www.kmart.com/wea-corp-flame-of-recca-complete-tv-series/p-SPM10480341108?plpSellerId=zabiva&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Aandamp;E",
+    "model": "ADIB003X2P98K",
+    "url": "https://www.kmart.com/a-e-video-holiday-switch-tvs-electronics-music-movies/p-SPM14533902515?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Image",
+    "model": "ADIB00008NFR6",
+    "url": "https://www.kmart.com/kultur-video-kiss-me-kate-toys-games-family/p-SPM8522013931?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "SDVD7060-COMBO-BLUE",
+    "url": "https://www.kmart.com/sylvania-sdvd7060-combo-blue-7inch-swivel-screen-portable/p-SPM9180889017?plpSellerId=DiddlyDeals&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "NAT'L",
+    "model": "ADIB0112HPTXM",
+    "url": "https://www.kmart.com/national-geographic-national-geographic-war-collection-dvd-tvs/p-SPM8575030302?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB00VW70MGW",
+    "url": "https://www.kmart.com/viz-video-sailor-moon-r-season-2-part/p-SPM8512269402?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA41589",
+    "url": "https://www.kmart.com/sylvania-sdvd7049-pink-7inch-portable-dvd-player/p-SPM9457532222?plpSellerId=MyGoods&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Coleman",
+    "model": "2000020171",
+    "url": "https://www.kmart.com/coleman-company-coleman-company-4-packs-lg-xl-blu/p-SPM8860431523?plpSellerId=Farm and City Supply&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Coleman",
+    "model": "2000020170",
+    "url": "https://www.kmart.com/coleman-company-coleman-company-4-packs-sm-med-blu/p-SPM8860413123?plpSellerId=Farm and City Supply&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Acorn",
+    "model": "ADI6303704786",
+    "url": "https://www.kmart.com/acorn-media-adi6303704786-charlemagne-vhs/p-A017170935?plpSellerId=zabiva&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "panaracer",
+    "model": "RF723-RCA-L2",
+    "url": "https://www.kmart.com/panaracer-700x23-panaracer-race-type-a-fldg-blu/p-SPM8819556123?plpSellerId=MyGoods&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA41538",
+    "url": "https://www.kmart.com/sylvania-sdvd7049-7-inch-portable-dvd-player/p-SPM9456661422?plpSellerId=MyGoods&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "E1",
+    "model": "ZID2OVB9SU",
+    "url": "https://www.kmart.com/e1-entertainment-jay-johnson-s-boot-camp-fitness-ultimate/p-SPM8849526823?plpSellerId=FastMedia&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00RCPFF06",
+    "url": "https://www.kmart.com/universal-studios-home-entert-ghost-whisperer-complete-series/p-SPM10480289108?plpSellerId=zabiva&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ENTERTAINMENT",
+    "model": "ADIB00TJFXH84",
+    "url": "https://www.kmart.com/e1-entertainment-heartland-2007-e1-entertainment/p-SPM14533147115?plpSellerId=zabiva&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA41590",
+    "url": "https://www.kmart.com/sylvania-7inch-portable-dvd-player-with-integrated-handle/p-SPM8709219114?plpSellerId=DiddlyDeals&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA41812",
+    "url": "https://www.kmart.com/sylvania-7inch-portable-dvd-player-with-integrated-handle/p-SPM8709218814?plpSellerId=DiddlyDeals&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SYLVANIA(R)",
+    "model": "CURSDVD7049BLU",
+    "url": "https://www.kmart.com/sylvania-7inch-portable-dvd-player-with-integrated-handle/p-SPM8709218914?plpSellerId=DiddlyDeals&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB011MUA592",
+    "url": "https://www.kmart.com/universal-studios-home-entert-avatar-last-airbender-complete-series/p-SPM10480949908?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "anchor",
+    "model": "ADIB015UOAV9A",
+    "url": "https://www.kmart.com/anchor-bay-entertainment-black-sails-season-1-2/p-SPM8601332102?plpSellerId=zabiva&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WAX",
+    "model": "ADIB00US8DH5Y",
+    "url": "https://www.kmart.com/paramount-odd-couple-1970-the/p-SPM14540889815?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WARNERBROTHERS",
+    "model": "ADIB01CQ75N6K",
+    "url": "https://www.kmart.com/warner-home-video-roots-complete-original-series/p-SPM14559056515?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "flp",
+    "model": "8857-24",
+    "url": "https://www.kmart.com/flp-llc-flp-8857-blu-plastic-dog-food/p-A011262288?plpSellerId=Rons Home And Hardware&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ROWE,MIKE",
+    "model": "ADIB0026IQTOK",
+    "url": "https://www.kmart.com/rowe-mike-shark-week-the-great-bites-collection-blu/p-SPM8652851102?plpSellerId=zabiva&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01M0F9Z8P",
+    "url": "https://www.kmart.com/paramount-studio-lucy-show-the-complete-series-dvd/p-SPM8788678011?plpSellerId=zabiva&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00WGEAK4O",
+    "url": "https://www.kmart.com/paramount-studio-i-love-lucy-the-ultimate-season/p-SPM8657945402?plpSellerId=zabiva&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB01DLVAHQG",
+    "url": "https://www.kmart.com/universal-studios-home-entert-hollow-crown-wars-of-the/p-SPM10481075708?plpSellerId=zabiva&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "EASTERN",
+    "model": "ADIB00M0JTYF6",
+    "url": "https://www.kmart.com/discotek-media-mega-man-discotek-media/p-SPM14538754915?plpSellerId=zabiva&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01C6S1TEE",
+    "url": "https://www.kmart.com/paramount-studio-hot-in-cleveland-the-complete-series/p-SPM8680261402?plpSellerId=zabiva&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00SG16TIC",
+    "url": "https://www.kmart.com/universal-studios-parks-recreation-the-complete-series-dvd/p-SPM8512089002?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Petmate",
+    "model": "02366",
+    "url": "https://www.kmart.com/petmate-2-packs-3-4x6-blu-glow-dk/p-SPM8884215523?plpSellerId=Farm and City Supply&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "panaracer",
+    "model": "RF26125-TSV-L",
+    "url": "https://www.kmart.com/panaracer-26x1.25-panaracer-t-serv-pt-fldg-blu/p-SPM8819752723?plpSellerId=MyGoods&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB00ABA1OP4",
+    "url": "https://www.kmart.com/workhorse-music-group-rammstein-videos-1995-2012/p-SPM14542910915?plpSellerId=zabiva&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB018DQV44I",
+    "url": "https://www.kmart.com/wea-corp-carol-burnett-show-treasures-from-the/p-SPM10480773708?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WM",
+    "model": "ADIB00NJ4VMDS",
+    "url": "https://www.kmart.com/wm-productions-parenthood-the-complete-series-boxed-set/p-SPM12509805117?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB000BCE8Q4",
+    "url": "https://www.kmart.com/sky-fox-technologies-star-wars-clone-wars/p-SPM14546068215?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "First",
+    "model": "ADIB0007X9UGA",
+    "url": "https://www.kmart.com/first-look-home-entertainment-adib0007x9uga-david-e-talbert-s/p-A017171306?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Coleman",
+    "model": "2000014933",
+    "url": "https://www.kmart.com/coleman-company-4-packs-youth-blu-rain-poncho/p-SPM8825010023?plpSellerId=Farm and City Supply&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HBO",
+    "model": "ADIB01E4S3H08",
+    "url": "https://www.kmart.com/hbo-studios-game-of-thrones-the-complete-fourth/p-SPM8704784502?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00SWFMBCK",
+    "url": "https://www.kmart.com/lions-gate-manhattan-season-1-dvd/p-SPM8512820302?plpSellerId=zabiva&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Turner",
+    "model": "ADIB00VSKT1V0",
+    "url": "https://www.kmart.com/warner-brothers-adventure-time-the-complete-5th/p-SPM14521930815?plpSellerId=zabiva&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Fox",
+    "model": "ADIB00N6NYFYA",
+    "url": "https://www.kmart.com/fox-flaming-star-blu-ray-reg-a-b-c-import/p-SPM9477149617?plpSellerId=zabiva&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB00OQRU9FY",
+    "url": "https://www.kmart.com/viz-video-sailor-moon-season-1-part-2/p-SPM8394768002?plpSellerId=zabiva&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FUNIMATION",
+    "model": "ADIB01EIW2REC",
+    "url": "https://www.kmart.com/funimation-robotic-notes-the-complete-series/p-SPM14543660015?plpSellerId=zabiva&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arthaus",
+    "model": "ADIB019JL2M10",
+    "url": "https://www.kmart.com/naxos-of-america-berlioz-la-damnation-de-faust/p-SPM10480995408?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arthaus",
+    "model": "ADIB0000517CM",
+    "url": "https://www.kmart.com/naxos-of-america-prokofiev-cinderella/p-SPM10480995508?plpSellerId=zabiva&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FUNIMATION",
+    "model": "ADIB01LYKJ3VZ",
+    "url": "https://www.kmart.com/funimation-legend-of-the-legendary-heroes-comp-series/p-SPM8792388311?plpSellerId=zabiva&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB01BZE7MNW",
+    "url": "https://www.kmart.com/universal-studios-grimm-season-five-blu-ray-tvs/p-SPM8756624102?plpSellerId=zabiva&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "EuroArts",
+    "model": "ADIB01LYC5OL1",
+    "url": "https://www.kmart.com/euroarts-wiener-philharmoniker-le-nozze-di-figaro-blu/p-SPM8796005311?plpSellerId=zabiva&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BFS",
+    "model": "ADI6302287715",
+    "url": "https://www.kmart.com/noone-blake-s-7-vol-01-the-way-back/p-SPM14772937224?plpSellerId=zabiva&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TELEVISA",
+    "model": "ADIB00UUOVICK",
+    "url": "https://www.kmart.com/televisa-rebelde-dvd/p-SPM8512439402?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "MUSIC",
+    "model": "ADIB00VBPM3UI",
+    "url": "https://www.kmart.com/music-box-films-maison-close-season-2-blu/p-SPM8657782702?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FUNIMATION",
+    "model": "ADIB00HXEWGY4",
+    "url": "https://www.kmart.com/funimation-uni-dist-corp-eureka-seven-part-2/p-SPM14561162415?plpSellerId=zabiva&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00SLXUZ7G",
+    "url": "https://www.kmart.com/universal-studios-law-order-the-nineteenth-year-dvd/p-SPM8512309702?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Timeless",
+    "model": "ADIB005UFUU6E",
+    "url": "https://www.kmart.com/timeless-multimedia-tall-man-the-complete-series/p-SPM14546894215?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00TQPH3SM",
+    "url": "https://www.kmart.com/universal-studios-law-order-the-seventh-year-dvd/p-SPM8513627202?plpSellerId=zabiva&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00TQPH3VY",
+    "url": "https://www.kmart.com/universal-studios-law-order-the-sixth-year-tvs/p-SPM10701069225?plpSellerId=zabiva&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HBO",
+    "model": "ADIB00IO8PU6E",
+    "url": "https://www.kmart.com/hbo-studios-true-blood-the-complete-first-season/p-SPM8402834002?plpSellerId=zabiva&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA44600",
+    "url": "https://www.kmart.com/sylvania-ra44600-dvd-player-with-1080p-upconversion/p-SPM8808488003?plpSellerId=eCopUSAcom&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00TY6CLQW",
+    "url": "https://www.kmart.com/paramount-studio-hotwives-of-orlando-dvd/p-SPM14224356811?plpSellerId=zabiva&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB018S7ANIA",
+    "url": "https://www.kmart.com/universal-studios-warehouse-13-season-4-tvs/p-SPM14549230015?plpSellerId=zabiva&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB004PHSTY8",
+    "url": "https://www.kmart.com/warner-home-video-supernatural-season-2-blu-ray/p-SPM8726580109?plpSellerId=zabiva&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Viz",
+    "model": "ADIB00VW70MJY",
+    "url": "https://www.kmart.com/viz-entertainment-sailor-moon-r-season-2/p-SPM14544067015?plpSellerId=zabiva&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Petmate",
+    "model": "20832",
+    "url": "https://www.kmart.com/petmate-3-packs-1-2x20-30-blu/p-SPM8884218723?plpSellerId=Farm and City Supply&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "EASTERN",
+    "model": "ADIB015N8JD8I",
+    "url": "https://www.kmart.com/wea-corp-library-war-anime-tv-series/p-SPM10480902708?plpSellerId=zabiva&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Kanguru",
+    "model": "NTTFLU2DVDRWSLFACTORYSEALED",
+    "url": "https://www.kmart.com/kanguru-u2-dvdrw-sl-external-8x-dvdplus/p-SPM7678525022?plpSellerId=Tech For Less LLC&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB00G6HO4O4",
+    "url": "https://www.kmart.com/ent-one-being-human-being-human-season-3/p-SPM8401627402?plpSellerId=zabiva&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB01DLVAHQ6",
+    "url": "https://www.kmart.com/universal-studios-home-entert-hollow-crown-wars-of-the/p-SPM10481075508?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arrow",
+    "model": "ADIB00RDT5OES",
+    "url": "https://www.kmart.com/arrow-video-blind-woman-s-curse-2-disc-special/p-SPM8479134631?plpSellerId=ErgodE&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BBC",
+    "model": "ADIB01LTI9HDW",
+    "url": "https://www.kmart.com/bbc-warner-call-the-midwife-season-six-dvd/p-SPM14210606411?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Cinedigm",
+    "model": "ADIB01DALQ0ZE",
+    "url": "https://www.kmart.com/rooster-teeth-red-vs-blue-seasons/p-SPM14543167315?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB013JBJ8T0",
+    "url": "https://www.kmart.com/warner-home-video-shameless-the-complete-fifth-season/p-SPM8657903502?plpSellerId=zabiva&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WARNERBROTHERS",
+    "model": "ADIB01IWFPHI4",
+    "url": "https://www.kmart.com/cartoon-network-venture-bros-season-6-blu-ray/p-SPM8765475502?plpSellerId=zabiva&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Showtime",
+    "model": "ADIB01JCUPZGW",
+    "url": "https://www.kmart.com/paramount-penny-dreadful-2014-the/p-SPM14541662315?plpSellerId=zabiva&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arrow",
+    "model": "ADIB01AGR6RTE",
+    "url": "https://www.kmart.com/arrow-video-dillinger-2-disc-special-edition-blu/p-SPM8479157831?plpSellerId=ErgodE&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB010EJOB6A",
+    "url": "https://www.kmart.com/ent-one-haven-season-5-volume-1-bd/p-SPM8657765402?plpSellerId=zabiva&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01LZ7L3WQ",
+    "url": "https://www.kmart.com/shout-factory-t-a-m-i-shoq-the-blu-ray-tvs/p-SPM8790957311?plpSellerId=zabiva&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB0177PBUIQ",
+    "url": "https://www.kmart.com/universal-studios-12-monkeys-2015/p-SPM14521268215?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00KB01OT0",
+    "url": "https://www.kmart.com/paramount-studio-shogun-blu-ray/p-SPM8397713102?plpSellerId=zabiva&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01JH4FYXW",
+    "url": "https://www.kmart.com/lions-gate-feed-the-beast-season-1/p-SPM14530581315?plpSellerId=zabiva&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Hogue",
+    "model": "38668",
+    "url": "https://www.kmart.com/hogue-sig-p238-g10-gma-blu-lava/p-SPM7221619209?plpSellerId=eCopUSAcom&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FUNIMATION",
+    "model": "ADIB01FXMF75W",
+    "url": "https://www.kmart.com/funimation-uni-dist-corp-samurai-7-complete-series/p-SPM14565374615?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00G0INDXC",
+    "url": "https://www.kmart.com/universal-studios-law-order-the-twentieth-year-dvd/p-SPM8512312302?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FUNIMATION",
+    "model": "ADIB01EIW2RHE",
+    "url": "https://www.kmart.com/funimation-uni-dist-corp-date-a-live-season/p-SPM14560667815?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Tcfhe/anchor",
+    "model": "ADIB017HP191E",
+    "url": "https://www.kmart.com/tcfhe-anchor-bay-starz-flesh-and-bone-sn1-blu-ray/p-SPM9150690202?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HarperCollins",
+    "model": "ADIB00L16P1YM",
+    "url": "https://www.kmart.com/lions-gate-little-house-on-the-prairie-season/p-SPM8397795602?plpSellerId=zabiva&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BBC",
+    "model": "ADIB00NAP5G4M",
+    "url": "https://www.kmart.com/bbc-warner-paradise-season-two-blu-ray/p-SPM8401476802?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Fox",
+    "model": "ADIB00F4NPBAC",
+    "url": "https://www.kmart.com/fox-home-entertainment-simpsons-complete-sixteenth-season/p-SPM10479330608?plpSellerId=zabiva&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "GPX",
+    "model": "SID3EX0BVS",
+    "url": "https://www.kmart.com/gpx-d200b-progressive-scan-2-channel-dvd/p-SPM8853795329?plpSellerId=Ami Ventures Inc&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LYMAN",
+    "model": "ADIB00I458456",
+    "url": "https://www.kmart.com/wea-corp-mama-s-family-complete-fourth-season/p-SPM10479493608?plpSellerId=zabiva&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00SG0UKJC",
+    "url": "https://www.kmart.com/universal-studios-law-order-special-victims-unit-sixteenth/p-SPM8557989902?plpSellerId=zabiva&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Acorn",
+    "model": "ADIB000A4T804",
+    "url": "https://www.kmart.com/acorn-media-fingersmith-the-complete-bbc-series/p-SPM9150384602?plpSellerId=zabiva&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Capitol",
+    "model": "ADIB01LYU0DLZ",
+    "url": "https://www.kmart.com/capitol-beatles-eight-days-a-week-the-touring/p-SPM8789378711?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "OREN/HE/BERTI/ULBRICH",
+    "model": "ADIB00EWT1824",
+    "url": "https://www.kmart.com/oren-he-berti-ulbrich-verdi-aida-blu-ray-blu-ray-toys/p-SPM9468744317?plpSellerId=ErgodE&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00FWMVVHC",
+    "url": "https://www.kmart.com/universal-studios-northern-exposure-northern-exposure-season-6/p-SPM8395050602?plpSellerId=zabiva&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB00SG7L5BC",
+    "url": "https://www.kmart.com/time-life-the-best-of-the-ed-sullivan/p-SPM12509797917?plpSellerId=zabiva&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WARNERBROTHERS",
+    "model": "ADIB00O8J0L30",
+    "url": "https://www.kmart.com/warner-home-video-chips-the-complete-third-season/p-SPM8395993902?plpSellerId=zabiva&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TURNER",
+    "model": "ADIB00BDD3BGS",
+    "url": "https://www.kmart.com/cartoon-network-adventure-time-adventure-time-the-complete/p-SPM8401616702?plpSellerId=ErgodE&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00T94R6AA",
+    "url": "https://www.kmart.com/lions-gate-little-house-on-the-prairie-season/p-SPM8512021902?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00SNPXCYK",
+    "url": "https://www.kmart.com/umgd-muddy-wolf-at-red-rocks/p-SPM10480374308?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00L9FLXXI",
+    "url": "https://www.kmart.com/universal-studios-suits-season-four-dvd/p-SPM8513441702?plpSellerId=zabiva&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01MFG47BJ",
+    "url": "https://www.kmart.com/paramount-star-trek-enterprise-the-complete/p-SPM14546045815?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00SNPXDQ2",
+    "url": "https://www.kmart.com/j-r-adventures-joe-bonamassa-muddy-wolf/p-SPM14535545415?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TURNER",
+    "model": "ADIB00VSKT1XI",
+    "url": "https://www.kmart.com/turner-hm-entertainm-cartoon-network-adventure-time-the/p-SPM14785198528?plpSellerId=zabiva&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00FAHYO1Y",
+    "url": "https://www.kmart.com/lionsgate-hero-blu-ray-steelbook-digital-hd/p-SPM8479022331?plpSellerId=ErgodE&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "World",
+    "model": "ADIB002K0WBWS",
+    "url": "https://www.kmart.com/world-wrestling-entertainment-wwe-hulk-hogan-s-unreleased-collector-s/p-SPM8652838302?plpSellerId=zabiva&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB016OLA1B6",
+    "url": "https://www.kmart.com/paramount-uni-dist-corp-star-trek-the-next/p-SPM9150688702?plpSellerId=zabiva&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB01BDCTH7K",
+    "url": "https://www.kmart.com/universal-studios-royal-pains-season-seven-dvd-tvs/p-SPM8680204002?plpSellerId=zabiva&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB013BPR8NC",
+    "url": "https://www.kmart.com/lions-gate-baseball-legends/p-SPM10480939408?plpSellerId=zabiva&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00H5NY6CI",
+    "url": "https://www.kmart.com/paramount-studio-i-love-lucy-ultimate-season-one/p-SPM8411857602?plpSellerId=zabiva&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01IHVHGFU",
+    "url": "https://www.kmart.com/umgd-growing-up-live-unwrapped-still-gro/p-SPM10481194508?plpSellerId=zabiva&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB010NQVYLO",
+    "url": "https://www.kmart.com/paramount-studio-ncis-the-twelfth-season-blu-ray/p-SPM8657849602?plpSellerId=zabiva&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00SLXUXZU",
+    "url": "https://www.kmart.com/universal-studios-law-order-the-eighteenth-year-dvd/p-SPM8513541302?plpSellerId=zabiva&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "INGRAM",
+    "model": "ADIB00U0R1RGE",
+    "url": "https://www.kmart.com/warner-home-video-miss-marple-v03-blu/p-SPM14563291615?plpSellerId=zabiva&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00QGRS2OW",
+    "url": "https://www.kmart.com/universal-studios-house-m-d-season/p-SPM14534171415?plpSellerId=zabiva&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00IXGD852",
+    "url": "https://www.kmart.com/universal-studios-law-order-the-fifth-year-dvd/p-SPM8398628002?plpSellerId=zabiva&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB01HG6LPB8",
+    "url": "https://www.kmart.com/20th-century-fox-dinosaurs-of-the-jurassic-collection/p-SPM8792485411?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HBO",
+    "model": "ADIB00LPPIDSA",
+    "url": "https://www.kmart.com/hbo-true-blood-2008-the/p-SPM14548100615?plpSellerId=zabiva&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB00IS6WPT2",
+    "url": "https://www.kmart.com/e1-entertainment-first-world-war-the-complete/p-SPM14530837115?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Discovery",
+    "model": "ADIB00JHH1WX6",
+    "url": "https://www.kmart.com/discovery-channel-earth-the-sequel-tvs-electronics/p-SPM14529324315?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HarperCollins",
+    "model": "ADIB00M6X9ZWS",
+    "url": "https://www.kmart.com/a-e-home-video-duck-dynasty-season-4-6/p-SPM8402155502?plpSellerId=zabiva&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Gmg",
+    "model": "ADIB000065CF9",
+    "url": "https://www.kmart.com/gmg-victor-borge-s-funniest-moments-tvs-electronics/p-SPM14548880915?plpSellerId=zabiva&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB001FB4VY4",
+    "url": "https://www.kmart.com/unknown-the-big-bang-theory-season-2-blu/p-SPM8146073502?plpSellerId=zabiva&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FILMRISE",
+    "model": "ADIB01BT1VN90",
+    "url": "https://www.kmart.com/filmrise-band-of-robbers-blu-ray-toys-games/p-SPM8479171031?plpSellerId=ErgodE&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FILMRISE",
+    "model": "ADIB01BPNLSHY",
+    "url": "https://www.kmart.com/filmrise-the-great-alone-blu-ray-toys-games/p-SPM8479171131?plpSellerId=ErgodE&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB012OTHK3E",
+    "url": "https://www.kmart.com/e1-entertainment-matador-2014-the/p-SPM14538569915?plpSellerId=zabiva&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB01JKOL66I",
+    "url": "https://www.kmart.com/sony-home-pictures-ent-saving-hope-season-3/p-SPM8747493702?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Petmate",
+    "model": "02385",
+    "url": "https://www.kmart.com/petmate-2-packs-3-4x20-blu-glow-collar/p-SPM8884219023?plpSellerId=Farm and City Supply&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB00G575PD4",
+    "url": "https://www.kmart.com/warner-manufacturing-death-wish-40th-anniversary-bd-blu/p-SPM14971418624?plpSellerId=zabiva&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00E5G03BQ",
+    "url": "https://www.kmart.com/paramount-studio-honeymooners-classic-39-episodes-blu-ray/p-SPM8397938702?plpSellerId=zabiva&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB00GLT2SOA",
+    "url": "https://www.kmart.com/wea-corp-mama-s-family-complete-third-season/p-SPM10479493508?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00NJ4TJZ6",
+    "url": "https://www.kmart.com/universal-studios-grimm-season-four-blu-ray-tvs/p-SPM8657852602?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB012UORWJ0",
+    "url": "https://www.kmart.com/paramount-studio-extant-the-second-season-blu-ray/p-SPM8657907702?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00IXGD834",
+    "url": "https://www.kmart.com/universal-studios-law-order-the-second-year-dvd/p-SPM8397591702?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "MovieMars",
+    "model": "ADIB009UWKHCK",
+    "url": "https://www.kmart.com/moviemars-roxys-leyla-from-emmerdale-itv1-bite-size/p-A018595355?plpSellerId=ErgodE&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Decca",
+    "model": "ADIB00M3IVDH6",
+    "url": "https://www.kmart.com/umgd-dvorak-rusalka/p-SPM10480829408?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "various",
+    "model": "ZID3TRS8VY",
+    "url": "https://www.kmart.com/various-love-s-labour-s-lost-shakespeare-s-globe-london-2009/p-SPM8853091123?plpSellerId=Edealszone LLC&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00JB4TOQM",
+    "url": "https://www.kmart.com/universal-studios-magnum-pi-season-six-dvd/p-SPM8399097602?plpSellerId=zabiva&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB015O7GZUW",
+    "url": "https://www.kmart.com/universal-studios-defiance-season-three-dvd-tvs-electronics/p-SPM8606695402?plpSellerId=zabiva&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00TXZIEHY",
+    "url": "https://www.kmart.com/universal-studios-bates-motel-season-three-dvd-tvs/p-SPM8572389902?plpSellerId=zabiva&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00W4GYEQO",
+    "url": "https://www.kmart.com/universal-studios-playing-house-season-one-dvd/p-SPM8513718702?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00LTO33V4",
+    "url": "https://www.kmart.com/universal-studios-murder-she-wrote-season-eleven-dvd/p-SPM8395133102?plpSellerId=zabiva&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01LX2ARPK",
+    "url": "https://www.kmart.com/eagle-vision-heart-live-royal-albert-hall/p-SPM14533141215?plpSellerId=zabiva&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Turner",
+    "model": "ADIB00LOWROWK",
+    "url": "https://www.kmart.com/cartoon-network-rick-morty-the-complete-first-season/p-SPM8394938902?plpSellerId=zabiva&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB00X3PSK42",
+    "url": "https://www.kmart.com/lions-gate-little-house-on-the-prairie-season/p-SPM8513227202?plpSellerId=zabiva&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HBO",
+    "model": "ADIB00X4TV9RC",
+    "url": "https://www.kmart.com/hbo-veep-the-complete-4th-season/p-SPM14548741115?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADI6304437110",
+    "url": "https://www.kmart.com/noone-battlestar-galactica-lost-planet-of-the-gods/p-SPM14773317524?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00JB4TOM6",
+    "url": "https://www.kmart.com/universal-studios-magnum-pi-season-seven-dvd/p-SPM8400828302?plpSellerId=zabiva&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TURNER",
+    "model": "ADIB00X7LXCHC",
+    "url": "https://www.kmart.com/warner-home-video-black-jesus-season-1-dvd/p-SPM8565348702?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HBO",
+    "model": "ADIB0156Q69U2",
+    "url": "https://www.kmart.com/hbo-home-video-boardwalk-empire-complete-1st-season/p-SPM14559934615?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB00KU3Y1YS",
+    "url": "https://www.kmart.com/warner-brothers-originals-the-complete-1st-season/p-SPM14541181215?plpSellerId=zabiva&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "panaracer",
+    "model": "RF723-CLSP-L",
+    "url": "https://www.kmart.com/panaracer-700x23-panaracer-closer-plus-fldg-blu-fitness/p-SPM8819450523?plpSellerId=MyGoods&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "SDVD1096",
+    "url": "https://www.kmart.com/sylvania-sdvd1096-dvd-player-with-hdmi-r-output/p-SPM9458171822?plpSellerId=BuyDigcom&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00GTZWXFU",
+    "url": "https://www.kmart.com/universal-studios-law-order-svu-the-fifteenth-year/p-SPM8394640102?plpSellerId=zabiva&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Kulter",
+    "model": "ADIB00009PY12",
+    "url": "https://www.kmart.com/white-star-jackie-mason-the-world-according/p-SPM14535217115?plpSellerId=zabiva&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Time",
+    "model": "ADIB00UBZLLZC",
+    "url": "https://www.kmart.com/time-life-wonder-years-time-life/p-SPM14549919715?plpSellerId=zabiva&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00ID3TPHA",
+    "url": "https://www.kmart.com/universal-studios-eureka-2006-season/p-SPM14529997215?plpSellerId=zabiva&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Proscan",
+    "model": "NTSSWRA42598",
+    "url": "https://www.kmart.com/proscan-pdvd1053d-compact-progressive-scan-dvd-player/p-SPM9458170322?plpSellerId=MyGoods&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "NTSSWRA25487",
+    "url": "https://www.kmart.com/sylvania-sdvd1046-compact-dvd-player/p-SPM9134718817?plpSellerId=MyGoods&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HBO",
+    "model": "ADIB00L5QX00U",
+    "url": "https://www.kmart.com/hbo-veep-the-complete-3rd-season/p-SPM14548740915?plpSellerId=zabiva&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00HEM9QH0",
+    "url": "https://www.kmart.com/universal-studios-columbo-seasons-6/p-SPM14526955615?plpSellerId=zabiva&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sounds",
+    "model": "ADIB01D9SZZPE",
+    "url": "https://www.kmart.com/sounds-true-seane-corn-yoga-awakening-mystic/p-SPM14544476815?plpSellerId=zabiva&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB00SJFCL82",
+    "url": "https://www.kmart.com/bbc-warner-planet-dinosaur-blu-ray/p-SPM8513132102?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Aeromax",
+    "model": "DRB-23",
+    "url": "https://www.kmart.com/fba-siliguri-venture-child-blue-jr-doctor-costume/p-SPM8676776026?plpSellerId=Ami Ventures Inc&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ABC",
+    "model": "ADIB01DPNC222",
+    "url": "https://www.kmart.com/abc-home-video-lost-season-4-dvd-tvs/p-SPM8722116502?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00NJ4S3EY",
+    "url": "https://www.kmart.com/universal-studios-chicago-p-d-season/p-SPM14526325115?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB018S7ARMW",
+    "url": "https://www.kmart.com/universal-studios-psych-the-complete-seventh-season-dvd/p-SPM8644110202?plpSellerId=zabiva&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB011Q0F17O",
+    "url": "https://www.kmart.com/universal-studios-back-to-the-future-the-complete/p-SPM8575013102?plpSellerId=zabiva&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Mobile",
+    "model": "MESSM513",
+    "url": "https://www.kmart.com/mobile-edge-slipsuit-macbkproslv-13.3inch-blu-clothing-shoes/p-SPM14916133128?plpSellerId=DigitalShopper&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TURNER",
+    "model": "ADIB00TSI10YA",
+    "url": "https://www.kmart.com/warner-brothers-falling-skies-the-complete-4th/p-SPM14530373515?plpSellerId=zabiva&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01D4SPZOK",
+    "url": "https://www.kmart.com/paramount-ncis-los-angeles-the-7th/p-SPM14540234415?plpSellerId=zabiva&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Startz/Anchor",
+    "model": "ADIB01G6AS4FU",
+    "url": "https://www.kmart.com/anchor-bay-the-girlfriend-experience-season-1/p-SPM9150729602?plpSellerId=zabiva&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "EASTERN",
+    "model": "ADIB018ENE3G6",
+    "url": "https://www.kmart.com/discotek-media-samurai-pizza-cats-the-complete/p-SPM14544149015?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB0177PBUR2",
+    "url": "https://www.kmart.com/universal-studios-continuum-season-4-blu-ray-tvs/p-SPM10701138025?plpSellerId=zabiva&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Tcfhe",
+    "model": "ADIB016YVK3AA",
+    "url": "https://www.kmart.com/tcfhe-x-files-season-2-blu-ray/p-SPM14566954015?plpSellerId=zabiva&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WM",
+    "model": "ADIB01FKMJXNW",
+    "url": "https://www.kmart.com/wm-productions-dresser-the/p-SPM9150726602?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Starz",
+    "model": "ADIB010CHR1ES",
+    "url": "https://www.kmart.com/anchor-bay-entertainment-power-season-2-blu-ray/p-SPM8709419702?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB018S7ARRW",
+    "url": "https://www.kmart.com/universal-studios-eureka-season-four-dvd-tvs-electronics/p-SPM8644138902?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB01MTANROT",
+    "url": "https://www.kmart.com/momentum-daughters-of-the-dust-blu-ray-tvs/p-SPM8822704211?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Morris",
+    "model": "LW106ROBU",
+    "url": "https://www.kmart.com/morris-costumes-lw106robu-curly-clown-fd-royal-blu/p-SPM12391749606?plpSellerId=VeeTrends&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00H4ZEJAG",
+    "url": "https://www.kmart.com/universal-studios-murder-she-wrote-season-2-dvd/p-SPM8396064702?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Turner",
+    "model": "ADIB019WMTZPM",
+    "url": "https://www.kmart.com/turner-home-video-last-ship-the-complete-second/p-SPM8680190502?plpSellerId=zabiva&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vetrarian",
+    "model": "ADIB00HV9EA8Q",
+    "url": "https://www.kmart.com/filmrise-how-to-plan-an-orgy-in-a/p-SPM14534273015?plpSellerId=DealYard&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arthaus",
+    "model": "ADIB000050X8U",
+    "url": "https://www.kmart.com/arthaus-musik-iphigenie-en-tauride-dvd-tvs-electronics/p-SPM8648353802?plpSellerId=zabiva&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01D66KWSE",
+    "url": "https://www.kmart.com/paramount-studio-scorpion-season-two-dvd-tvs-electronics/p-SPM8747390202?plpSellerId=zabiva&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "VIRGIL",
+    "model": "ADIB00TZZNVB6",
+    "url": "https://www.kmart.com/virgil-films-and-entertai-pandas-journey-home/p-SPM14564701315?plpSellerId=zabiva&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00M574CIW",
+    "url": "https://www.kmart.com/eagle-vision-queen-live-at-the-rainbow/p-SPM14542758315?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB014JVY6R8",
+    "url": "https://www.kmart.com/eagle-vision-katy-perry-the-prismatic-world/p-SPM14535999715?plpSellerId=zabiva&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Tcfhe",
+    "model": "ADIB01729J1KQ",
+    "url": "https://www.kmart.com/tcfhe-x-files-season-3-blu-ray/p-SPM14566954115?plpSellerId=zabiva&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01JH4G3KA",
+    "url": "https://www.kmart.com/lions-gate-weeds-seasons-1-2-dvd-tvs/p-SPM8766304902?plpSellerId=zabiva&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB010EJOB4C",
+    "url": "https://www.kmart.com/sony-haven-season-5-vol-1/p-SPM10480776008?plpSellerId=zabiva&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB01BZE7N90",
+    "url": "https://www.kmart.com/universal-studios-grimm-season-five-dvd-tvs-electronics/p-SPM8756624202?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB014JC1LZM",
+    "url": "https://www.kmart.com/sony-legacy-celtic-thunder-mythology-sony/p-SPM14526103315?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB00LVZK0VM",
+    "url": "https://www.kmart.com/a-e-video-history-channel-presents-ancient-aliens/p-SPM14533478015?plpSellerId=zabiva&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB00P69WMJC",
+    "url": "https://www.kmart.com/a-e-home-video-ancient-aliens-ssn-6-vol/p-SPM8401341802?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB01E9P2IPQ",
+    "url": "https://www.kmart.com/mgm-ua-studios-vikings-season-4-vol-1-dvd/p-SPM8765462002?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00WEAKX1K",
+    "url": "https://www.kmart.com/a-e-home-video-gangland-undercover-dvd/p-SPM8512523102?plpSellerId=zabiva&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00UITXDNE",
+    "url": "https://www.kmart.com/showtime-entertainment-ray-donovan-second-season-blu-ray/p-SPM8512581502?plpSellerId=zabiva&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "World",
+    "model": "ADIB002NXSROS",
+    "url": "https://www.kmart.com/movie-wwe-jeff-hardy-my-life-my-rules/p-SPM8652855002?plpSellerId=zabiva&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00H5NY6E6",
+    "url": "https://www.kmart.com/paramount-andy-griffith-show-paramount/p-SPM14522741415?plpSellerId=zabiva&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "SIDHUPC5UG",
+    "url": "https://www.kmart.com/uni-dist-corp-mca-continuum-season-2-blu/p-SPM8865562729?plpSellerId=zabiva&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00L8LD9PI",
+    "url": "https://www.kmart.com/universal-studios-home-entert-burning-love-complete-second-third/p-SPM10479814008?plpSellerId=zabiva&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB019ETTGSY",
+    "url": "https://www.kmart.com/lions-gate-home-ent-racing-extinction-blu-ray/p-SPM14971813724?plpSellerId=zabiva&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00L9FKMC6",
+    "url": "https://www.kmart.com/universal-studios-covert-affairs-season-five-dvd/p-SPM8513020802?plpSellerId=zabiva&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB015FWSWWA",
+    "url": "https://www.kmart.com/eagle-vision-lady-antebellum-wheels-up-tour/p-SPM14536583115?plpSellerId=zabiva&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Hannah",
+    "model": "ADIB00TEYPUIK",
+    "url": "https://www.kmart.com/warner-home-video-scooby-doo-scrappy-doo-complet-1st-ss/p-SPM10480396708?plpSellerId=zabiva&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB013BPR7L0",
+    "url": "https://www.kmart.com/lions-gate-mad-men-the-final-season-part/p-SPM8572386802?plpSellerId=zabiva&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01LXKUWPA",
+    "url": "https://www.kmart.com/umgd-to-russia-with-elton/p-SPM10481320208?plpSellerId=zabiva&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Eagle",
+    "model": "ADIB01LZCAREU",
+    "url": "https://www.kmart.com/umgd-live-at-the-royal-albert-hall-royal-p/p-SPM10481364408?plpSellerId=zabiva&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SOUNDS",
+    "model": "ADIB013D10G2O",
+    "url": "https://www.kmart.com/new-power-of-kundalini-yoga-dvd/p-SPM8919983423?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB01690GTLS",
+    "url": "https://www.kmart.com/national-geographic-wild-yellowstone-dvd-tvs-electronics-music/p-SPM8622908302?plpSellerId=zabiva&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01NA7F5E2",
+    "url": "https://www.kmart.com/umgd-eight-days-a-week-touring-years/p-SPM10481373108?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00YSBFCGE",
+    "url": "https://www.kmart.com/paramount-good-wife-2009-the/p-SPM14532276815?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01AEOM79I",
+    "url": "https://www.kmart.com/lions-gate-grace-and-frankie-season-1/p-SPM14532336215?plpSellerId=zabiva&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00NARLV8K",
+    "url": "https://www.kmart.com/paramount-studio-happy-days-the-sixth-season-dvd/p-SPM8395000702?plpSellerId=zabiva&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00IP965IO",
+    "url": "https://www.kmart.com/universal-studios-home-entert-rawhide-eighth-and-final-season/p-SPM10479489708?plpSellerId=zabiva&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UMGD",
+    "model": "SID2RBZ13Q",
+    "url": "https://www.kmart.com/vivendi-entertainment-the-killers-live-from-royal-albert/p-SPM8867826929?plpSellerId=zabiva&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Provident",
+    "model": "ADIB0112HPWQG",
+    "url": "https://www.kmart.com/provident-distribution-a-d-the-bible-continues-by-various/p-SPM15062807615?plpSellerId=zabiva&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00QT4VH76",
+    "url": "https://www.kmart.com/paramount-studio-matlock-s-greatest-cases-dvd/p-SPM8395390302?plpSellerId=zabiva&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB01576X8I2",
+    "url": "https://www.kmart.com/umgd-1/p-SPM10480770208?plpSellerId=zabiva&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00LTO332I",
+    "url": "https://www.kmart.com/universal-studios-psych-the-complete-fifth-season-dvd/p-SPM8400336802?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB014HFOANQ",
+    "url": "https://www.kmart.com/eagle-vision-lynyrd-skynyrd-pronouced-leh-nerd/p-SPM14537956915?plpSellerId=zabiva&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Eagle",
+    "model": "ADIB015UE84EY",
+    "url": "https://www.kmart.com/eagle-vision-queen-a-night-at-the/p-SPM14542756315?plpSellerId=zabiva&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Wgbh",
+    "model": "ADIB000Z27HWW",
+    "url": "https://www.kmart.com/wgbh-arthur-season-10-tvs-electronics-music/p-SPM14523120415?plpSellerId=zabiva&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB00QFUG0YO",
+    "url": "https://www.kmart.com/lions-gate-nurse-jackie-season-6-blu-ray/p-SPM8395205102?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB06XYFK85G",
+    "url": "https://www.kmart.com/lions-gate-power-season-3-dvd/p-SPM14210887011?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00L557SZY",
+    "url": "https://www.kmart.com/comedy-central-south-park-the-complete-17th/p-SPM14545685315?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB010MJAFNA",
+    "url": "https://www.kmart.com/comedy-central-tut-blu-ray-tvs-electronics/p-SPM14548170115?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sylvania",
+    "model": "SRCD1063BT-RED",
+    "url": "https://www.kmart.com/sylvania-srcd1063bt-red-bluetooth-portable-cd-radio/p-SPM10428610008?plpSellerId=DiddlyDeals&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB01BPJKCHU",
+    "url": "https://www.kmart.com/universal-studios-chicago-p-d-season/p-SPM14526325215?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01C6S1V42",
+    "url": "https://www.kmart.com/comedy-central-hot-in-cleveland-comedy-central/p-SPM14534131015?plpSellerId=zabiva&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "anchor",
+    "model": "ADIB00W663VDO",
+    "url": "https://www.kmart.com/anchor-bay-entertainment-black-sails-season-2-dvd/p-SPM8584073102?plpSellerId=zabiva&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB01C3947MM",
+    "url": "https://www.kmart.com/universal-studios-brooklyn-nine-season-three-dvd/p-SPM8739827202?plpSellerId=zabiva&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01M12YPOJ",
+    "url": "https://www.kmart.com/discovery-channel-harley-and-the-davidsons-blu/p-SPM14532970715?plpSellerId=zabiva&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB00NJPZZAS",
+    "url": "https://www.kmart.com/sony-pepe-aguilar-mtv-unplugged/p-SPM10480062308?plpSellerId=zabiva&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00JB4TONA",
+    "url": "https://www.kmart.com/universal-studios-incredible-hulk-season-four-dvd/p-SPM8398959802?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00IF0KAYS",
+    "url": "https://www.kmart.com/universal-studios-francis-the-talking-mule-complete-collection/p-SPM8395826102?plpSellerId=zabiva&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01F2R9WVI",
+    "url": "https://www.kmart.com/lions-gate-naked-and-afraid-xl-season-1/p-SPM10481124508?plpSellerId=zabiva&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Time",
+    "model": "ADIB018DRVU7S",
+    "url": "https://www.kmart.com/wea-corp-carol-burnett-show-treasures-from-the/p-SPM10480774508?plpSellerId=zabiva&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB017RR4ZD6",
+    "url": "https://www.kmart.com/lions-gate-mi-5/p-SPM10480945908?plpSellerId=ErgodE&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arthaus",
+    "model": "ADIB0000517CQ",
+    "url": "https://www.kmart.com/naxos-of-america-legendary-performances-vivaldi-orland/p-SPM10480996508?plpSellerId=zabiva&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WARNERBROTHERS",
+    "model": "ADIB01CV3I2DK",
+    "url": "https://www.kmart.com/cartoon-network-rick-morty-season-2-dvd-tvs/p-SPM8704787102?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01H1W2MO6",
+    "url": "https://www.kmart.com/lions-gate-narcos-season-1-dvd-tvs-electronics/p-SPM8739828802?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SULLIVAN",
+    "model": "ADIB00JB4TOSA",
+    "url": "https://www.kmart.com/universal-studios-magnum-pi-season-five-dvd/p-SPM8398333502?plpSellerId=zabiva&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00LTO33AK",
+    "url": "https://www.kmart.com/universal-studios-murder-she-wrote-the/p-SPM14539689615?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB018V1ZXOW",
+    "url": "https://www.kmart.com/bbc-home-video-doctor-who-2005/p-SPM14528755815?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WAI",
+    "model": "DVD155",
+    "url": "https://www.kmart.com/wai-lana-little-yogi-s-dvd-volume-1/p-SPM11547568519?plpSellerId=UnbeatableSalecom Inc&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00I9KV1TM",
+    "url": "https://www.kmart.com/universal-studios-bates-motel-season-two-blu-ray/p-SPM8394746302?plpSellerId=zabiva&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LGF",
+    "model": "ADIB00HW3EWDO",
+    "url": "https://www.kmart.com/lions-gate-anger-management-3-dvd/p-SPM8399549302?plpSellerId=zabiva&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB019DTO7KC",
+    "url": "https://www.kmart.com/universal-studios-unbreakable-kimmy-schmidt-season-1/p-SPM14548440915?plpSellerId=zabiva&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00P4IMXE4",
+    "url": "https://www.kmart.com/umgd-cheek-to-cheek-live/p-SPM10480221408?plpSellerId=zabiva&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ABC",
+    "model": "ADIB00VRRVHDE",
+    "url": "https://www.kmart.com/walt-disney-home-improvement-season-4-dvd/p-SPM8513404102?plpSellerId=zabiva&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00US8CTFI",
+    "url": "https://www.kmart.com/paramount-andy-griffith-show-paramount/p-SPM14522742315?plpSellerId=zabiva&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB00VRJ632C",
+    "url": "https://www.kmart.com/eagle-vision-lost-songs-the-basement-tapes/p-SPM14537740315?plpSellerId=zabiva&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01AALT0M2",
+    "url": "https://www.kmart.com/eagle-vision-burt-bacharach-a-life-in/p-SPM14525577115?plpSellerId=zabiva&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB015X2I4ZC",
+    "url": "https://www.kmart.com/eagle-vision-usa-ritchie-blackmore-story-home-furniture/p-SPM14881380428?plpSellerId=zabiva&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB00FFLBXI2",
+    "url": "https://www.kmart.com/umgd-live-at-montreux-2013/p-SPM10479321908?plpSellerId=zabiva&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00XX3VWGC",
+    "url": "https://www.kmart.com/paramount-studio-affair-season-one-dvd/p-SPM8512488702?plpSellerId=zabiva&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "anchor",
+    "model": "ADIB01G6AS3EW",
+    "url": "https://www.kmart.com/anchor-bay-girlfriend-experience-2016/p-SPM14531967715?plpSellerId=zabiva&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB00JEEZTB8",
+    "url": "https://www.kmart.com/umgd-manilow-live-from-paris-las-vegas/p-SPM10479594208?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00M57493K",
+    "url": "https://www.kmart.com/eagle-vision-queen-live-at-the-rainbow/p-SPM14542758215?plpSellerId=zabiva&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB012DCNEW8",
+    "url": "https://www.kmart.com/eagle-vision-taste-what-s-going-on/p-SPM14546947315?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "OLIVE",
+    "model": "ADIB00UOYITZU",
+    "url": "https://www.kmart.com/olive-films-peter-benchleys-creature-blu-ray/p-SPM14564803515?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Well",
+    "model": "ADIB007TKRXE0",
+    "url": "https://www.kmart.com/well-go-usa-ip-man-2-blu-ray/p-SPM8479052031?plpSellerId=ErgodE&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "MGM",
+    "model": "ADIB0126ZKKII",
+    "url": "https://www.kmart.com/fox-home-entertainment-007-george-lazenby/p-SPM10480922508?plpSellerId=zabiva&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB019WJ6W88",
+    "url": "https://www.kmart.com/lions-gate-manhattan-season-2/p-SPM10480947808?plpSellerId=zabiva&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Eagle",
+    "model": "ADIB01MYV8P26",
+    "url": "https://www.kmart.com/eagle-rock-entertainment-mumford-sons-live-from-south/p-SPM8799809411?plpSellerId=zabiva&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB0142XIGN8",
+    "url": "https://www.kmart.com/umgd-live-at-finsbury-park/p-SPM10480848708?plpSellerId=zabiva&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00US8CWAA",
+    "url": "https://www.kmart.com/paramount-andy-griffith-show-paramount/p-SPM14522743215?plpSellerId=zabiva&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Spelling",
+    "model": "ADIB00KW02JUW",
+    "url": "https://www.kmart.com/universal-studios-home-entert-dynasty-final-season-vol-2/p-SPM10479733208?plpSellerId=zabiva&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Hy-Ko",
+    "model": "15005KW1-BTM1-5",
+    "url": "https://www.kmart.com/hy-ko-products-15005kw1-btm1-5-hy-ko/p-A015097138?plpSellerId=Rons Home And Hardware&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01CDBOMLQ",
+    "url": "https://www.kmart.com/i-v-media-david-bowie-the-berlin-briefings/p-SPM14527917015?plpSellerId=zabiva&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00NBC986G",
+    "url": "https://www.kmart.com/universal-studios-mindy-project-season-three-dvd-tvs/p-SPM8567951702?plpSellerId=zabiva&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "NCIRCLE",
+    "model": "ADIB005OA4Y0S",
+    "url": "https://www.kmart.com/unknown-wiggles-yummy/p-SPM6866298504?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TURNER",
+    "model": "ADIB00KH57UXS",
+    "url": "https://www.kmart.com/warner-brothers-adventure-time-the-complete-4th/p-SPM14521930615?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Anchor",
+    "model": "ADIB00L1HWB4E",
+    "url": "https://www.kmart.com/anchor-bay-da-vinci-s-demons-the/p-SPM14527661515?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "INJV9",
+    "model": "ADIB01F5OO9NO",
+    "url": "https://www.kmart.com/interscope-u2-innoc-exper-paris-ex-dvd-tvs-electronics-music-movies/p-SPM8708153102?plpSellerId=zabiva&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB015UE84BC",
+    "url": "https://www.kmart.com/eagle-vision-frank-sinatra-all-or-nothing/p-SPM14531197415?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Dancing",
+    "model": "ADIB008MJZE3E",
+    "url": "https://www.kmart.com/dancing-dolphin-bunty-aur-babli-blu-ray-toys/p-SPM8478840631?plpSellerId=ErgodE&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "SIDAAQ7JNA",
+    "url": "https://www.kmart.com/visual-entertainment-rihanna-loud-tour-live-at-the/p-SPM8861317229?plpSellerId=ErgodE&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arthaus",
+    "model": "ADIB019MX8H5A",
+    "url": "https://www.kmart.com/arthaus-musik-orlando-furioso-blu-ray-tvs-electronics/p-SPM8661091502?plpSellerId=zabiva&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Eagle",
+    "model": "ADIB01JACFFYY",
+    "url": "https://www.kmart.com/umgd-live-in-munich-2012/p-SPM10481194008?plpSellerId=zabiva&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "King",
+    "model": "10666",
+    "url": "https://www.kmart.com/king-safety-wire-conn-lt-blue-bg-10/p-SPM6176495301?plpSellerId=Farm and City Supply&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00ZASOJOA",
+    "url": "https://www.kmart.com/paramount-studio-csi-cyber-season-one-dvd-tvs/p-SPM8558077202?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00K0D972O",
+    "url": "https://www.kmart.com/universal-studios-home-entert-hercules-legendary-journeys-season-5/p-SPM10479794308?plpSellerId=zabiva&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TWC",
+    "model": "ADIB00GUB91J4",
+    "url": "https://www.kmart.com/twc-lawless-blu-ray-toys-games-action-figures/p-SPM8478767031?plpSellerId=ErgodE&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00V37CE0S",
+    "url": "https://www.kmart.com/lions-gate-mortdecai-blu-ray/p-SPM8513605702?plpSellerId=FastMedia&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "GRAVITY",
+    "model": "186-0018",
+    "url": "https://www.kmart.com/gravity-lock-on-grips-140mm/p-SPM8810842523?plpSellerId=MyGoods&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB000W4HIWM",
+    "url": "https://www.kmart.com/sky-fox-technologies-prison-break-2005/p-SPM14542481715?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB0177PBUPE",
+    "url": "https://www.kmart.com/universal-studios-continuum-season-four-dvd-tvs-electronics/p-SPM8622925702?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "PBS",
+    "model": "ADIB0002TSZQK",
+    "url": "https://www.kmart.com/public-broadcasting-service-secrets-of-the-lost-empires/p-SPM10477631108?plpSellerId=zabiva&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Shout!",
+    "model": "ADIB00SCK3NF4",
+    "url": "https://www.kmart.com/shout-factory-musicares-tribute-to-paul-mccartney/p-SPM14539741515?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Comedy",
+    "model": "ADIB01954R2W0",
+    "url": "https://www.kmart.com/comedy-central-south-park-complete-nineteenth-season-dvd/p-SPM8746024602?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Cinedigm",
+    "model": "ADIB00TH87ITW",
+    "url": "https://www.kmart.com/flatiron-film-yu-gi-oh-collection-1-dvd/p-SPM8565374002?plpSellerId=zabiva&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB014FXKDOU",
+    "url": "https://www.kmart.com/e1-entertainment-pac-man-pixel-8/p-SPM14541330715?plpSellerId=zabiva&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB01KWMOQIC",
+    "url": "https://www.kmart.com/20th-century-fox-brain-games-season-7-dvd/p-SPM8766304802?plpSellerId=zabiva&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB000ZIZX9A",
+    "url": "https://www.kmart.com/cartoon-network-ben-10-season-3-dvd/p-SPM8409132002?plpSellerId=zabiva&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB01HG6LPCW",
+    "url": "https://www.kmart.com/20th-century-fox-unlikely-animal-friends-season-1/p-SPM8750103302?plpSellerId=zabiva&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Mgm",
+    "model": "ADIB00LNNVV4M",
+    "url": "https://www.kmart.com/mgm-ua-studios-teen-wolf-season-4-dvd/p-SPM8513423402?plpSellerId=zabiva&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB00VRJ6DUE",
+    "url": "https://www.kmart.com/eagle-rock-entertainment-styx-live-at-the-orleans/p-SPM8744190202?plpSellerId=zabiva&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DIS",
+    "model": "ADIB00H9FDD76",
+    "url": "https://www.kmart.com/buena-vista-ducktales-vol-1-tvs/p-SPM14529196115?plpSellerId=zabiva&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB017RR78TY",
+    "url": "https://www.kmart.com/lions-gate-little-house-on-the-prairie-season-8/p-SPM10480939708?plpSellerId=zabiva&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORD",
+    "model": "ADIB0178A4BKO",
+    "url": "https://www.kmart.com/paramount-touched-by-an-angel-the-spirit/p-SPM14547815315?plpSellerId=zabiva&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01KOCKVC0",
+    "url": "https://www.kmart.com/paramount-studio-twilight-zone-complete-second-season-dvd/p-SPM8774640102?plpSellerId=zabiva&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00RWUOD86",
+    "url": "https://www.kmart.com/lions-gate-ancient-aliens-season-7/p-SPM10480321408?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00GM473M6",
+    "url": "https://www.kmart.com/paramount-beauty-the-beast-2012/p-SPM14523936815?plpSellerId=zabiva&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00P1NG32A",
+    "url": "https://www.kmart.com/a-e-video-history-channel-presents-ancient-aliens/p-SPM14533478115?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Capitol",
+    "model": "ADIB01LQDMV42",
+    "url": "https://www.kmart.com/hillsong-worship-let-there-be-light-dvd/p-SPM8792493311?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "anchor",
+    "model": "ADIB017HP18WO",
+    "url": "https://www.kmart.com/anchor-bay-flesh-and-bone-sn1/p-SPM9150690102?plpSellerId=zabiva&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Team",
+    "model": "ADIB01HU7NV38",
+    "url": "https://www.kmart.com/team-marketing-espn-films-30-for-30-believeland/p-SPM10481199608?plpSellerId=zabiva&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00ZR3W3M8",
+    "url": "https://www.kmart.com/universal-studios-abbott-costello-meet-the-monsters-collection/p-SPM8568260702?plpSellerId=zabiva&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Aandamp;E",
+    "model": "ADIB002FLZW64",
+    "url": "https://www.kmart.com/a-e-home-video-universe-season-2-dvd/p-SPM14209395611?plpSellerId=zabiva&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Adagio",
+    "model": "ADIB014VLVSQI",
+    "url": "https://www.kmart.com/alternative-distribution-alliance-second-flight-live-at-the/p-SPM15063010915?plpSellerId=ErgodE&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB014R6Q02E",
+    "url": "https://www.kmart.com/universal-studios-home-entert-nickelodeon-favorites-whiskers-paws/p-SPM10480953908?plpSellerId=zabiva&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00KB01P0S",
+    "url": "https://www.kmart.com/universal-studios-home-entert-gabriel-iglesias-presents-stand-up/p-SPM10479702908?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB013BPR878",
+    "url": "https://www.kmart.com/lions-gate-mad-men-the-final-season-part/p-SPM8657843602?plpSellerId=zabiva&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00QFUG0VC",
+    "url": "https://www.kmart.com/lions-gate-nurse-jackie-season-6-dvd/p-SPM8395954102?plpSellerId=zabiva&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Eagle",
+    "model": "ADIB014JVY5YC",
+    "url": "https://www.kmart.com/eagle-vision-katy-perry-the-prismatic-world/p-SPM14535999615?plpSellerId=zabiva&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB00DZP1C0O",
+    "url": "https://www.kmart.com/universal-studios-home-entert-columbo-complete-season-two/p-SPM10479278908?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00US8CUF2",
+    "url": "https://www.kmart.com/paramount-andy-griffith-show-paramount/p-SPM14522741715?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arthaus",
+    "model": "ADIB0000517CP",
+    "url": "https://www.kmart.com/naxos-of-america-legendary-performances-bellini-norma/p-SPM10480996408?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB01AKUNOC0",
+    "url": "https://www.kmart.com/sony-welcome-to-sweden-season-2/p-SPM10481000108?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00RCPF646",
+    "url": "https://www.kmart.com/universal-studios-home-entert-star-trek-original-series-captain/p-SPM10480289208?plpSellerId=zabiva&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WARNERBROTHERS",
+    "model": "ADIB00JMG6EUS",
+    "url": "https://www.kmart.com/cartoon-network-black-dynamite-season-one-dvd/p-SPM8405053502?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Hy-Ko",
+    "model": "KHO733",
+    "url": "https://www.kmart.com/hy-ko-prod-co-hy-ko-prod-kho733/p-SPM10671414320?plpSellerId=Rons Home And Hardware&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "SIDB4804QM",
+    "url": "https://www.kmart.com/uni-dist-corp-mca-continuum-season-1-blu/p-SPM8860792229?plpSellerId=zabiva&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00M31VE9A",
+    "url": "https://www.kmart.com/paramount-jackass-classic-tv-collection-tvs-electronics/p-SPM14535205015?plpSellerId=zabiva&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BBC",
+    "model": "ADIB00W6FGQHI",
+    "url": "https://www.kmart.com/ingram-content-group-doctor-who-the-daleks-2/p-SPM12509838417?plpSellerId=zabiva&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HBO",
+    "model": "ADIB00LPY27A6",
+    "url": "https://www.kmart.com/hbo-home-video-getting-on-season-1/p-SPM14561587315?plpSellerId=zabiva&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WEA",
+    "model": "ADIB018DSA8ZW",
+    "url": "https://www.kmart.com/wea-corp-hee-haw-kornfield-klassics/p-SPM10480773908?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Arthaus",
+    "model": "ADIB0000517CN",
+    "url": "https://www.kmart.com/naxos-of-america-legendary-performances-von-weber-der/p-SPM10480996208?plpSellerId=zabiva&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Turner",
+    "model": "ADIB004GZZHGW",
+    "url": "https://www.kmart.com/turner-hm-entertainm-cartoon-network-firebreather-dvd-home/p-SPM14846024128?plpSellerId=zabiva&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00SCK3O44",
+    "url": "https://www.kmart.com/shout-factory-musicares-tribute-to-paul-mccartney-tvs/p-SPM14539741415?plpSellerId=zabiva&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BAYVIEW",
+    "model": "BAY030",
+    "url": "https://www.kmart.com/bayview-films-gilad-elite-forces-fat-burning-workout/p-SPM8404554102?plpSellerId=ErgodE&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01DSX5BTK",
+    "url": "https://www.kmart.com/discovery-channel-alaskan-bush-people-the-complete/p-SPM14522164615?plpSellerId=zabiva&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB016PUZC0Q",
+    "url": "https://www.kmart.com/manhattan-records-celtic-woman-destiny-blu-ray-tvs/p-SPM8657810002?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB014DEGR6E",
+    "url": "https://www.kmart.com/lions-gate-nurse-jackie-season-7-dvd-tvs/p-SPM8575014002?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB00VE6OXSY",
+    "url": "https://www.kmart.com/lions-gate-pastor-brown-sins-of-the-mother/p-SPM10480516708?plpSellerId=zabiva&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Capitol",
+    "model": "ADIB00HHIPPW6",
+    "url": "https://www.kmart.com/sparrow-corporation-majestic-live-deluxe-by-jobe-kari/p-SPM15073564615?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00S89IPBG",
+    "url": "https://www.kmart.com/comedy-central-inside-amy-schumer-seasons-1/p-SPM14534799915?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB00KZJX8T6",
+    "url": "https://www.kmart.com/sony-pac-man-and-the-ghostly-adventures-be/p-SPM10479868508?plpSellerId=zabiva&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB00OZOIL5S",
+    "url": "https://www.kmart.com/lightyear-entertainment-jane-fonda-low-impact-workout/p-SPM14535297715?plpSellerId=zabiva&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORD",
+    "model": "ADIB016DIWXG6",
+    "url": "https://www.kmart.com/universal-studios-home-entert-touched-by-an-angel-i/p-SPM10481020308?plpSellerId=zabiva&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORD",
+    "model": "ADIB016DIWX34",
+    "url": "https://www.kmart.com/universal-studios-home-entert-touched-by-an-angel-amazing/p-SPM10481020208?plpSellerId=zabiva&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ALEXANDER,JASON",
+    "model": "ADIB0000A0DUN",
+    "url": "https://www.kmart.com/alexander-jason-sideshow-alive-on-the-inside-tvs-electronics/p-SPM14969550024?plpSellerId=zabiva&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB01HG6LPEU",
+    "url": "https://www.kmart.com/20th-century-fox-brain-games-season-1-dvd/p-SPM8742744102?plpSellerId=zabiva&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01JH4G23S",
+    "url": "https://www.kmart.com/lions-gate-shaun-the-sheep-seasons-1-2/p-SPM8766291602?plpSellerId=zabiva&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00IN69P0E",
+    "url": "https://www.kmart.com/a-e-home-video-duck-dynasty-season-5-dvd/p-SPM8400121302?plpSellerId=zabiva&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WM",
+    "model": "ADIB00REG9GEE",
+    "url": "https://www.kmart.com/a-e-home-video-revelation-the-end-of-days/p-SPM8512673402?plpSellerId=zabiva&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB01HG6LPFY",
+    "url": "https://www.kmart.com/20th-century-fox-brain-games-season-2-dvd/p-SPM8742737302?plpSellerId=zabiva&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Aandamp;E",
+    "model": "ADIB00WEAKXZ6",
+    "url": "https://www.kmart.com/lions-gate-flowers-in-the-attic-petals-on-the/p-SPM10480562708?plpSellerId=zabiva&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Buena",
+    "model": "ADIB00003CXQA",
+    "url": "https://www.kmart.com/buena-vista-home-video-unbreakable-two-disc-vista/p-SPM8855343729?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00BW4S8AC",
+    "url": "https://www.kmart.com/paramount-uni-dist-corp-stephen-king-s-the-stand/p-SPM8731520309?plpSellerId=zabiva&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BAYVIEW",
+    "model": "BVCP109",
+    "url": "https://www.kmart.com/bayview-bvcp109-classical-pilates-technique-with-consideration-of/p-SPM6219288403?plpSellerId=ErgodE&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB00MTP41DQ",
+    "url": "https://www.kmart.com/lions-gate-life-after-beth-blu-ray/p-SPM8412396802?plpSellerId=FastMedia&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Blackened",
+    "model": "ADIB00LYHXG4K",
+    "url": "https://www.kmart.com/wea-corp-year-a-half-in-life-metallica/p-SPM10479904908?plpSellerId=zabiva&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB01DVALSXS",
+    "url": "https://www.kmart.com/universal-studios-urban-comedies-4-movie-spotlight-collection/p-SPM8711270802?plpSellerId=zabiva&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00MGBS4OU",
+    "url": "https://www.kmart.com/comedy-central-exes-season-1/p-SPM14530123015?plpSellerId=zabiva&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00MN9PQ9Q",
+    "url": "https://www.kmart.com/universal-studios-blues-brothers-widescreen-blu/p-SPM14524901615?plpSellerId=ErgodE&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "anchor",
+    "model": "ADIB01LTHKWH8",
+    "url": "https://www.kmart.com/anchor-bay-entertainment-into-the-badlands-season-1/p-SPM8786985602?plpSellerId=zabiva&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Inakustik",
+    "model": "ADIB01BSW1NWM",
+    "url": "https://www.kmart.com/in-akustick-michael-schenker-s-temple-of-rock/p-SPM14538947115?plpSellerId=zabiva&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BAYVIEW",
+    "model": "BV3721",
+    "url": "https://www.kmart.com/bayview-films-gilad-bodies-in-motion/p-SPM14531919815?plpSellerId=ErgodE&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01H1VSVME",
+    "url": "https://www.kmart.com/lions-gate-narcos-the-complete-1st-season/p-SPM14539977415?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "ADIB00P2HSBO8",
+    "url": "https://www.kmart.com/sony-jane-fonda-s-original-workout/p-SPM10480179508?plpSellerId=zabiva&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00MGBS580",
+    "url": "https://www.kmart.com/universal-studios-home-entert-hot-in-cleveland-season-five/p-SPM10479946608?plpSellerId=zabiva&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "New",
+    "model": "ADIB00HZVX0XQ",
+    "url": "https://www.kmart.com/cinedigm-uni-dist-corp-adventures-of-raggedy-ann/p-SPM14559180215?plpSellerId=zabiva&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HarperCollins",
+    "model": "ADIB00NOGZ91M",
+    "url": "https://www.kmart.com/lions-gate-duck-commander-before-the-dynasty/p-SPM10480171208?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "20th",
+    "model": "ADIB007I1Q4KO",
+    "url": "https://www.kmart.com/fox-home-entertainment-untamed-americas/p-SPM10478834208?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00IN69Q9O",
+    "url": "https://www.kmart.com/lions-gate-home-ent-the-universe-season-7/p-SPM8657526702?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB00KIX8HXQ",
+    "url": "https://www.kmart.com/a-e-home-video-75-years-of-wwii-dvd/p-SPM8395541802?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Wgbh",
+    "model": "ADIB000Z27HWC",
+    "url": "https://www.kmart.com/public-broadcasting-service-big-brother-binky/p-SPM10477882208?plpSellerId=zabiva&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB005TZFZI8",
+    "url": "https://www.kmart.com/lions-gate-founding-brothers/p-SPM10479029908?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UNI",
+    "model": "ADIB00LTO33H8",
+    "url": "https://www.kmart.com/universal-studios-magnum-p-i-season-three-dvd/p-SPM8410929002?plpSellerId=zabiva&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00OTADF9A",
+    "url": "https://www.kmart.com/universal-studios-home-entert-jeff-dunham-s-very-special-christmas/p-SPM10480143208?plpSellerId=zabiva&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00PIVK8RG",
+    "url": "https://www.kmart.com/universal-studios-home-entert-strawberry-shortcake-wonderful-world/p-SPM10480216008?plpSellerId=zabiva&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Cas",
+    "model": "PR4023",
+    "url": "https://www.kmart.com/cas-hanwei-single-hand-pommel-blu/p-SPM8139783917?plpSellerId=zabiva&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Walt",
+    "model": "AMIB01FJ4UGF0",
+    "url": "https://www.kmart.com/walt-disney-studios-finding-dory-bd-combo-pack/p-SPM8796861202?plpSellerId=Ami Ventures Inc&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Time",
+    "model": "ADIB01H3KUHMK",
+    "url": "https://www.kmart.com/wea-corp-carol-burnett-show-classic-carol/p-SPM10481254208?plpSellerId=zabiva&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB01H3KUHNY",
+    "url": "https://www.kmart.com/time-life-wea-hee-haw-salute-dvd/p-SPM9151317402?plpSellerId=zabiva&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB00SCDXS6K",
+    "url": "https://www.kmart.com/time-life-mamas-family-mamas-favorites-season-dvd/p-SPM8513641702?plpSellerId=zabiva&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01954R2T8",
+    "url": "https://www.kmart.com/nickelodeon-a468ab0e-let-s-learn-s-t-e-m-volume-2-dvd/p-SPM14204328811?plpSellerId=zabiva&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB00PIVKB0U",
+    "url": "https://www.kmart.com/universal-studios-home-entert-family-classics-addie-and-the/p-SPM10480214408?plpSellerId=zabiva&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Shout!",
+    "model": "ADIB00T73AUUG",
+    "url": "https://www.kmart.com/shout-factory-mister-ed-shout-factory/p-SPM14539195815?plpSellerId=zabiva&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ADIB013TYXUSM",
+    "url": "https://www.kmart.com/bbc-home-video-doctor-who-2005/p-SPM14528747515?plpSellerId=zabiva&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Cartoon",
+    "model": "ADIB00ZCHTUI4",
+    "url": "https://www.kmart.com/warner-home-video-adventure-time-enchiridion-v10/p-SPM10480962508?plpSellerId=zabiva&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vivi",
+    "model": "PF-V9110-BLU",
+    "url": "https://www.kmart.com/vivi-life-vivi-life-pf-v9110-blu-reflective/p-SPM9458074422?plpSellerId=FastMedia&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Discovery",
+    "model": "ADIB001O7EEDM",
+    "url": "https://www.kmart.com/discovery-channel-adib001o7eedm-deadliest-catch-the-complete-third/p-A017171227?plpSellerId=zabiva&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Aandamp;E",
+    "model": "ADIB00126808K",
+    "url": "https://www.kmart.com/a-e-video-history-channel-presents-how-the/p-SPM14533592615?plpSellerId=zabiva&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Verbatim",
+    "model": "3093804",
+    "url": "https://www.kmart.com/verbatim-97237-bd-r-dl-50gb-6x/p-SPM8711452723?plpSellerId=MyGoods&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB016PUXLM2",
+    "url": "https://www.kmart.com/manhattan-records-celtic-woman-destiny-live/p-SPM14526105215?plpSellerId=zabiva&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "KULTUR",
+    "model": "ADIB004XFZ3SW",
+    "url": "https://www.kmart.com/topics-entertainment-soaring-over-america-blu-ray/p-SPM14545514615?plpSellerId=ErgodE&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Square",
+    "model": "ZID1EO10IW",
+    "url": "https://www.kmart.com/square-deal-recordings-supplies-10-empty-standard-double/p-SPM8901254829?plpSellerId=Edealszone LLC&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Discovery",
+    "model": "ADIB00KU3Y3PA",
+    "url": "https://www.kmart.com/discovery-channel-fight-for-fallujah-tvs-electronics-music/p-SPM14530654815?plpSellerId=zabiva&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01JACFFY4",
+    "url": "https://www.kmart.com/umgd-at-the-royal-festival-hall-sinatra-in/p-SPM10481192508?plpSellerId=zabiva&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "GENEON",
+    "model": "ADIB00016MCDG",
+    "url": "https://www.kmart.com/pioneer-trigun-pioneer-2/p-SPM14548033015?plpSellerId=zabiva&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB01JACFG5W",
+    "url": "https://www.kmart.com/eagle-vision-beach-boys-pet-sounds-classic/p-SPM14523875615?plpSellerId=zabiva&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB00LHVZIT4",
+    "url": "https://www.kmart.com/lions-gate-hannibal-2013-season/p-SPM14532896015?plpSellerId=zabiva&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FUNimation",
+    "model": "ADIB0002Y4SJS",
+    "url": "https://www.kmart.com/funimation-yu-gi-oh-sage-3/p-SPM14550439015?plpSellerId=zabiva&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "GENEON",
+    "model": "ADIB0002B55B6",
+    "url": "https://www.kmart.com/pioneer-trigun-pioneer-8/p-SPM14548034215?plpSellerId=zabiva&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lions",
+    "model": "ADIB00LPD0D3U",
+    "url": "https://www.kmart.com/lions-gate-pawn-stars-very-vegas-christmas/p-SPM10480684408?plpSellerId=zabiva&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BAYVIEW",
+    "model": "BAY428",
+    "url": "https://www.kmart.com/bayview-films-kathy-smith-pregnancy-prenatal-postnatal/p-SPM14535990915?plpSellerId=ErgodE&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "GENEON",
+    "model": "ADIB0001IXTCW",
+    "url": "https://www.kmart.com/pioneer-trigun-pioneer-3/p-SPM14548033215?plpSellerId=zabiva&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Tgg",
+    "model": "ADIB000A8AXM2",
+    "url": "https://www.kmart.com/noone-tv-s-lost-episodes-action-collector-s-edition-tvs-electronics/p-SPM14772216024?plpSellerId=zabiva&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Martin",
+    "model": "ADIB0031YPN4K",
+    "url": "https://www.kmart.com/martin-f-weber-co-bob-ross-seascape-lights/p-SPM10478451408?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "DVD",
+    "model": "ADIB018UEIWZW",
+    "url": "https://www.kmart.com/shout-factory-slash-raised-on-the-sunset/p-SPM14545342715?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ATLANTIC-PERSONAL",
+    "model": "6373-5592",
+    "url": "https://www.kmart.com/atlantic-inc-16-blu-ray-nestable-tower-in/p-SPM7584951013?plpSellerId=MyGoods&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Genius",
+    "model": "ADIB002436WH6",
+    "url": "https://www.kmart.com/genius-jon-and-kate-plus-ei8ht-season-4/p-SPM8652857802?plpSellerId=zabiva&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HarperCollins",
+    "model": "ADIB00Q3FODMM",
+    "url": "https://www.kmart.com/a-e-home-video-duck-dynasty-season-7-dvd/p-SPM8512402202?plpSellerId=zabiva&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Image",
+    "model": "ADIB000055ZD9",
+    "url": "https://www.kmart.com/image-entertainment-i-spy-dragon-s-teeth-toys-games/p-SPM8651284602?plpSellerId=zabiva&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TIME",
+    "model": "ADIB013U6UCMQ",
+    "url": "https://www.kmart.com/time-life-don-rickles-tv-specials/p-SPM14528844415?plpSellerId=zabiva&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Warner",
+    "model": "ZID9AMAJH8",
+    "url": "https://www.kmart.com/warner-manufacturing-revolution-season-1-blu-ray-food/p-SPM8854188023?plpSellerId=Edealszone LLC&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SCREEN",
+    "model": "ADIB017S0FNAQ",
+    "url": "https://www.kmart.com/screen-media-alv818522013886-day-of-wrath-blu-ray/p-SPM9061362302?plpSellerId=DealYard&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONS",
+    "model": "ADIB00M4LP84Q",
+    "url": "https://www.kmart.com/lions-gate-home-ent-a-most-wanted-man/p-SPM14971812224?plpSellerId=zabiva&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "SID3G715Q2",
+    "url": "https://www.kmart.com/universal-music-tin-man-two-disc-collector-s-edition/p-SPM8867905129?plpSellerId=FastMedia&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB01JCV7CEY",
+    "url": "https://www.kmart.com/paramount-i-love-lucy-superstar-special/p-SPM14534442615?plpSellerId=zabiva&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Paramount",
+    "model": "ADIB0155YRG84",
+    "url": "https://www.kmart.com/comedy-central-inside-amy-schumer-season-three-dvd/p-SPM8597822402?plpSellerId=zabiva&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LIONSGATE",
+    "model": "ADIB01B1LE3RW",
+    "url": "https://www.kmart.com/lionsgate-casual-season-1/p-SPM9150705302?plpSellerId=zabiva&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BobRoss",
+    "model": "ADIB0035KZX9K",
+    "url": "https://www.kmart.com/weber-ross-dvd-grandeur-of-summer/p-SPM5826718401?plpSellerId=zabiva&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Shout!",
+    "model": "ADIB01L1SDZ5Q",
+    "url": "https://www.kmart.com/shout-factory-2016-world-series-blu-ray-tvs/p-SPM8791192011?plpSellerId=zabiva&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Square",
+    "model": "ZID1FSFJS4",
+    "url": "https://www.kmart.com/square-deal-recordings-supplies-5-empty-standard-double/p-SPM8777404323?plpSellerId=Edealszone LLC&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCFHE/MGM",
+    "model": "ADIB000RO9PTQ",
+    "url": "https://www.kmart.com/fox-home-entertainment-addams-family-vol-3/p-SPM10477838908?plpSellerId=zabiva&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Mirrycle",
+    "model": "20JLBB",
+    "url": "https://www.kmart.com/mirrycle-incredibell-jellibell-bicycle-bell/p-SPM3309534621?plpSellerId=MyGoods&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Universal",
+    "model": "ADIB002ZG97EC",
+    "url": "https://www.kmart.com/unknown-despicable-me-blu-ray-dvd/p-SPM8024497425?plpSellerId=FastMedia&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "The",
+    "model": "ADIB00CZAYP4A",
+    "url": "https://www.kmart.com/the-asylum-american-brawler-blu-ray-toys-games/p-SPM8478877731?plpSellerId=ErgodE&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Mirrycle",
+    "model": "20CANB",
+    "url": "https://www.kmart.com/mirrycle-corp-incredibell-candibell-blu-fitness-sports-wheeled/p-SPM8819340823?plpSellerId=MyGoods&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TEMIRKANOV/VASSILEVA/PINI",
+    "model": "SID94AH3PM",
+    "url": "https://www.kmart.com/temirkanov-vassileva-pini-la-traviata-blu-ray-office-supplies-paper/p-SPM8869526529?plpSellerId=ErgodE&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "POLAR",
+    "model": "PBB-20-SBLU",
+    "url": "https://www.kmart.com/polar-bottle-polar-bottle-polar-bottle-blu/p-SPM8806952223?plpSellerId=MyGoods&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "MINOURA",
+    "model": "303-0500-21",
+    "url": "https://www.kmart.com/minoura-ab100-4.5-duracage-blu-anodized-fitness/p-SPM8822203123?plpSellerId=MyGoods&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Blu-Ray Players",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  }
+]

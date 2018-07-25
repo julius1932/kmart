@@ -13,8 +13,8 @@ var pagesToVisit = [];
 var url = new URL(START_URL);
 var baseUrl = url.protocol + "//" + url.hostname;
 var count=0;
-pagesToVisit.push({url :START_URL,start:true});
-for(var i=2;i<=12;i++){
+//pagesToVisit.push({url :START_URL,start:true});
+for(var i=7;i<=12;i++){//12
     var crrLink="https://www.kmart.com/tvs-electronics-home-theater-audio-blu-ray-dvd-players-blu-ray-players/b-5000822?pageNum="+i;
     pagesToVisit.push({url :crrLink,start:true});
 }
