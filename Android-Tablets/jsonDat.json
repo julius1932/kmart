@@ -1,1 +1,1667 @@
-[]
+[
+  {
+    "brand": "Ematic",
+    "model": "FUNTAB3-RD",
+    "url": "https://www.kmart.com/ematic-7inch-hd-kid-safe-tablet-with-android/p-00360040000P?plpSellerId=Kmart&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBKCOBROWN",
+    "url": "https://www.kmart.com/linsay-10.1inch-quadcore-exclusive-luxury-bundle-with-brown/p-00305762000P?plpSellerId=Kmart&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Ematic",
+    "model": "EGQ223BL",
+    "url": "https://www.kmart.com/ematic-10inch-quad-core-tablet-with-16gb-and/p-020W008428717001P?plpSellerId=Kmart&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QL16KCPRP",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10ql-quad-core-16gb/p-00305545000P?plpSellerId=Kmart&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBKB",
+    "url": "https://www.kmart.com/linsay-7inch-new-quad-core-1024-x-600/p-00350406000P?plpSellerId=Kmart&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBKSPINK",
+    "url": "https://www.kmart.com/linsay-7inch-new-quadcore-exclusive-bundle-with-pink/p-00357629000P?plpSellerId=Kmart&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "SM-T350NZAAXAR",
+    "url": "https://www.kmart.com/samsung-galaxy-tab-a-8.0inch-tablet-w-16gb/p-00312719000P?plpSellerId=Kmart&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Nabi",
+    "model": "FGC63",
+    "url": "https://www.kmart.com/nabi-hot-wheels-7-inch-android-tablet/p-020W002321066002P?plpSellerId=Kmart&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Nabi",
+    "model": "FGC61",
+    "url": "https://www.kmart.com/nabi-barbie-7-inch-android-tablet/p-020W002298138001P?plpSellerId=Kmart&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHD",
+    "url": "https://www.kmart.com/linsay-7inch-new-quad-core-1024-x-600/p-00350122000P?plpSellerId=Kmart&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Ematic",
+    "model": "EGQ178BL",
+    "url": "https://www.kmart.com/ematic-7.9inch-hd-quad-core-tablet-with-8gb/p-00352561000P?plpSellerId=Sears&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Worryfree",
+    "model": "7DRK-Q-YELLOW",
+    "url": "https://www.kmart.com/zeepad-new-7inch-zeepad-7drk-q-android-4.4/p-SPM9341754617?plpSellerId=Tablet World&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBK",
+    "url": "https://www.kmart.com/linsay-7inch-new-dual-core-cpu-1024-x/p-00304497000P?plpSellerId=Kmart&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sungale",
+    "model": "ID1032WTA",
+    "url": "https://www.kmart.com/sungale-cyberus-10inch-quad-core-android-tablet/p-00305371000P?plpSellerId=Kmart&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-16GB-F-RYL",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-famtab-royal-blue-7inch/p-00350590000P?plpSellerId=Kmart&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "8QIDC16BL",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-leopard-8inch-quadcore/p-00305937000P?plpSellerId=Kmart&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBDS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quadcore-new-bundle-deluxe-with-silver/p-00357617000P?plpSellerId=Kmart&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME9Q8KC-PRP",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-9q-purple-9inch-tablet/p-00350592000P?plpSellerId=Kmart&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHD",
+    "url": "https://www.kmart.com/linsay-10.1-new-quad-core-1024-x-600/p-00350123000P?plpSellerId=Kmart&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBK",
+    "url": "https://www.kmart.com/linsay-10.1-new-quad-core-1024-x-600/p-00350407000P?plpSellerId=Kmart&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBCNYS",
+    "url": "https://www.kmart.com/linsay-7inch-new-quadcore-exclusive-bundle-with-new/p-00357620000P?plpSellerId=Kmart&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBKCOBLACK",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359819000P?plpSellerId=Kmart&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDP",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-capacitive-tablet-1024-x-600/p-00340144000P?plpSellerId=Kmart&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBCEP",
+    "url": "https://www.kmart.com/linsay-10.1inch-linsay-f-10hd2core-bundle-dual-core/p-00304498000P?plpSellerId=Kmart&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDKIDSBLUE",
+    "url": "https://www.kmart.com/linsay-new-linsay-10.1-inch-f-10xhd4kids-with/p-00351498000P?plpSellerId=Kmart&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBKR",
+    "url": "https://www.kmart.com/linsay-7inch-new-dual-core-cpu-bundle-1024/p-00304824000P?plpSellerId=Kmart&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359822000P?plpSellerId=Kmart&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Ematic",
+    "model": "FUNTAB2-RD",
+    "url": "https://www.kmart.com/ematic-funtab-7inch-hd-quad-core-kids-tablet/p-00350104000P?plpSellerId=Sears&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBKPURPLE",
+    "url": "https://www.kmart.com/linsay-7inch-new-quadcore-exclusive-bundle-with-purple/p-00305763000P?plpSellerId=Kmart&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBCBLUE",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-quad-core-w-blue-leather/p-00305796000P?plpSellerId=Kmart&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDKIDSPINK",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-kids-funny-tab-with-pink/p-00357735000P?plpSellerId=Kmart&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDKIDSGREEN",
+    "url": "https://www.kmart.com/linsay-7inch-new-kids-funny-tab-with-green/p-00357960000P?plpSellerId=Kmart&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBP",
+    "url": "https://www.kmart.com/linsay-7inch-new-quad-core-1024-x-600/p-00350404000P?plpSellerId=Kmart&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XIPSCG",
+    "url": "https://www.kmart.com/linsay-7inch-quad-core-1280x800-ips-screen-tablet/p-00360975000P?plpSellerId=Kmart&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XIPSCPL",
+    "url": "https://www.kmart.com/linsay-7inch-quad-core-1280x800-ips-screen-tablet/p-00360976000P?plpSellerId=Kmart&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QL16KCBLK",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10ql-quad-core-16gb/p-00355448000P?plpSellerId=Kmart&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME9Q8KC-RED",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-9q-red-9inch-tablet/p-00350626000P?plpSellerId=Kmart&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDCKBAG",
+    "url": "https://www.kmart.com/linsay-7inch-new-quad-core-with-black-leather/p-00357969000P?plpSellerId=Kmart&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XIPSCR",
+    "url": "https://www.kmart.com/linsay-7inch-quad-core-1280x800-ips-screen-tablet/p-00360009000P?plpSellerId=Kmart&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME11QKC32MAG",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-11q-quad-core-32gb/p-00355647000P?plpSellerId=Kmart&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QS16GBKCBLU",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10qs-quad-core-16gb/p-00355451000P?plpSellerId=Kmart&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QL16KCBLU",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10ql-quad-core-16gb/p-00355447000P?plpSellerId=Kmart&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "8QIDC16PP",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-purple-8inch-quadcore/p-00359393000P?plpSellerId=Kmart&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME9Q8KC-PNK",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-9q-pink-9inch-tablet/p-00350617000P?plpSellerId=Kmart&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBCLBROWN",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-quad-core-w-brown-leather/p-00357675000P?plpSellerId=Kmart&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-10D-16GB-PNK",
+    "url": "https://www.kmart.com/visual-land-prestige-pro-10d-pink-16gb-android/p-00346018000P?plpSellerId=Kmart&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-16GB-F-MAG",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-famtab-magenta-7inch-with/p-00350610000P?plpSellerId=Kmart&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-109-D-8GB-BLK",
+    "url": "https://www.kmart.com/prestige-pro-9d-8gb-android-4.2-google-play/p-00347492000P?plpSellerId=Kmart&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBKZEBRA",
+    "url": "https://www.kmart.com/linsay-7inch-new-quadcore-exclusive-bundle-with-zebra/p-00357630000P?plpSellerId=Kmart&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDKIDSP",
+    "url": "https://www.kmart.com/linsay-7inch-new-kids-quad-core-cpu-1024/p-00348516000P?plpSellerId=Kmart&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBCBLUE",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-quad-core-w-blue-leather/p-00305796000P?plpSellerId=Kmart&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-10D-16GB-PRP",
+    "url": "https://www.kmart.com/visual-land-prestige-pro-10d-purple-16gb-android/p-00346021000P?plpSellerId=Kmart&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-16GB-F-RED",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-famtab-red-7inch-with/p-00350630000P?plpSellerId=Kmart&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDKIDSBLUE",
+    "url": "https://www.kmart.com/linsay-new-linsay-10.1-inch-f-10xhd4kids-with/p-00351498000P?plpSellerId=Kmart&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-109-D-8GB-PRP",
+    "url": "https://www.kmart.com/visual-land-prestige-pro-9d-purple-8gb-android/p-00347494000P?plpSellerId=Kmart&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDKIDSP",
+    "url": "https://www.kmart.com/linsay-7inch-new-kids-quad-core-cpu-1024/p-00348516000P?plpSellerId=Kmart&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBKZEBRA",
+    "url": "https://www.kmart.com/linsay-7inch-new-quadcore-exclusive-bundle-with-zebra/p-00357630000P?plpSellerId=Kmart&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XIPSCLBL",
+    "url": "https://www.kmart.com/linsay-7inch-quad-core-1280x800-ips-screen-tablet/p-00360977000P?plpSellerId=Kmart&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XIPSCPW",
+    "url": "https://www.kmart.com/linsay-7inch-quad-core-1280x800-ips-screen-tablet/p-00360978000P?plpSellerId=Kmart&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME11QKC32BLU",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-11q-quad-core-32gb/p-00355641000P?plpSellerId=Kmart&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME11QKC32BLK",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-11q-quad-core-32gb/p-00355642000P?plpSellerId=Kmart&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QS16GBKCBLK",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10qs-quad-core-16gb/p-00355452000P?plpSellerId=Kmart&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "97084986M",
+    "url": "https://www.kmart.com/supersonic-7inch-android-4.1-touch-screen-tablet-with/p-00345936000P?plpSellerId=Kmart&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10Q8KCPRP",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10q-purple-10inch-tablet/p-00350623000P?plpSellerId=Kmart&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBDG",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359817000P?plpSellerId=Kmart&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBCLBROWN",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359807000P?plpSellerId=Kmart&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QL16KCRED",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10ql-quad-core-16gb/p-00355449000P?plpSellerId=Kmart&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME8QIBP16GBBLK",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-quad-core-16gb/p-00355444000P?plpSellerId=Kmart&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "8QIDC16TT",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-turquoise-8inch-quadcore/p-00359391000P?plpSellerId=Kmart&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Naxa",
+    "model": "970104828M",
+    "url": "https://www.kmart.com/naxa-970104828m-9-8221-core-tablet-with-android-os/p-A023584780?plpSellerId=Kmart&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBCLBROWN",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-quad-core-w-brown-leather/p-00357675000P?plpSellerId=Kmart&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F-10XHD4",
+    "url": "https://www.kmart.com/linsay-10.1inch-linsay-f-10hd2core-dual-core-cpu/p-00344976000P?plpSellerId=Kmart&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-16GB-F-GRN",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-famtab-green-7inch-with/p-00350629000P?plpSellerId=Kmart&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDKIDSPINK",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-kids-funny-tab-with-pink/p-00357735000P?plpSellerId=Kmart&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-16GB-F-BLK",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-famtab-black-7inch-with/p-00350591000P?plpSellerId=Kmart&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-8GB-RED",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-7q-7in-tablet-with/p-00348096000P?plpSellerId=Kmart&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-10D-16GB-BLU",
+    "url": "https://www.kmart.com/visual-land-prestige-pro-10d-blue-16gb-android/p-00304602000P?plpSellerId=Kmart&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XIPSKIDSR",
+    "url": "https://www.kmart.com/linsay-7inch-kids-funny-1280x800-ips-screen-tablet/p-00360008000P?plpSellerId=Kmart&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBC",
+    "url": "https://www.kmart.com/linsay-7inch-linsay-f-7hd2core-bundle-dual-core/p-00344975000P?plpSellerId=Kmart&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBP",
+    "url": "https://www.kmart.com/linsay-7inch-new-quad-core-1024-x-600/p-00350404000P?plpSellerId=Kmart&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "woPad",
+    "model": "Wopad-KIDS-BLU",
+    "url": "https://www.kmart.com/wopad-7inch-wopad-kitkat-google-android-4.4-dual/p-SPM9189650017?plpSellerId=Tablet World&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "PNK-7DRK-Q-KEY",
+    "url": "https://www.kmart.com/zeepad-7inch-zeepad-7drk-q-android-4.4-kitkat/p-SPM9189666017?plpSellerId=Tablet World&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "BLU-7DRK-Q-GC",
+    "url": "https://www.kmart.com/zeepad-7inch-zeepad-7drk-q-android-4.4-quad/p-SPM9189664817?plpSellerId=Tablet World&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FLYTOUCH",
+    "model": "FLYTOUCH-10XR",
+    "url": "https://www.kmart.com/flytouch-10inch-flytouchxr-google-android-4.4-quad-core/p-SPM9190168517?plpSellerId=Tablet World&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "10XR-Q",
+    "url": "https://www.kmart.com/zeepad-10.1inch-google-android-5.1-lollipop-rockchip-quad/p-SPM9488450617?plpSellerId=Tablet World&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Naxa",
+    "model": "970104827M",
+    "url": "https://www.kmart.com/naxa-970104827m-7-8221-core-tablet-with-android-os/p-A023584799?plpSellerId=MyGoods&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "woPad",
+    "model": "WOPAD-KIDS-PNK",
+    "url": "https://www.kmart.com/wopad-7inch-wopad-kitkat-google-android-4.4-dual/p-SPM9189649717?plpSellerId=Tablet World&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "BLU-7DRK-Q-KEY",
+    "url": "https://www.kmart.com/zeepad-7inch-zeepad-7drk-q-android-4.4-quad/p-SPM9189665617?plpSellerId=Tablet World&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDEP",
+    "url": "https://www.kmart.com/linsay-7inch-new-quad-core-cpu-1024x600-1gb/p-00342852000P?plpSellerId=Tech For Less LLC&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "7DRK-Q-RED",
+    "url": "https://www.kmart.com/zeepad-new-7inch-zeepad-7drk-q-android-4.4/p-SPM9341754717?plpSellerId=Tablet World&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "7DRK-Q-GRN",
+    "url": "https://www.kmart.com/zeepad-new-7inch-zeepad-7drk-q-android-4.4/p-SPM9341754517?plpSellerId=Tablet World&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SAMSUNG",
+    "model": "SM-T813NZKEXAR",
+    "url": "https://www.kmart.com/samsung-sm-t813nzkexar-galaxy-tab-s2-32gb-9.7/p-SPM12283819305?plpSellerId=BuyDigcom&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ASUS",
+    "model": "TF300TL-B1-BL",
+    "url": "https://www.kmart.com/asus-transformer-tf300-t-b1-bl-10.1-inch/p-SPM2346129914?plpSellerId=Action Packaged Inc&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBK",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359818000P?plpSellerId=Kmart&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ASUS",
+    "model": "90NP01M1-M01330",
+    "url": "https://www.kmart.com/asus-zenpad-s-tablet-intel-atom-z3530/p-SPM10349130718?plpSellerId=Edealszone LLC&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "HP",
+    "model": "M5H11UT#ABA",
+    "url": "https://www.kmart.com/hp-pro-slate-10-ee-intel-atom/p-SPM10344990218?plpSellerId=Tech For Less LLC&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Barnes",
+    "model": "9.78E+12",
+    "url": "https://www.kmart.com/barnes-noble-nook-hd-9inch-16gb-wi-fi/p-SPM7086762204?plpSellerId=Action Packaged Inc&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME11QKC32RED",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-11q-quad-core-32gb/p-00355643000P?plpSellerId=Kmart&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Coby",
+    "model": "MID7036_4",
+    "url": "https://www.kmart.com/coby-mid7036-4-7inch-4gb-16-9-tablet/p-SPM13539900219?plpSellerId=Action Packaged Inc&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QS16GBKCMAG",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10qs-quad-core-16gb/p-00355450000P?plpSellerId=Kmart&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QS16GBKCRED",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10qs-quad-core-16gb/p-00355453000P?plpSellerId=Kmart&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Nabi",
+    "model": "SNJR-MT05C-WHUS",
+    "url": "https://www.kmart.com/mattel-775a5950-nabi-jr-tablet/p-SPM14201100311?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ASUS",
+    "model": "Z380M-A2-GR",
+    "url": "https://www.kmart.com/asus-8inch-ips-2gb-16gb-android-5.0-tvs/p-SPM11577120725?plpSellerId=DigitalShopper&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10KGWG",
+    "url": "https://www.kmart.com/linsay-10inch-kids-green-funny-tab-with-1.5/p-00358015000P?plpSellerId=Kmart&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ZTPAD",
+    "model": "TP11",
+    "url": "https://www.kmart.com/ztpad-google-android-4.0-10-quot-pc-tablet-8gb/p-SPM7769928113?plpSellerId=Action Packaged Inc&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "iView®",
+    "model": "97085200M",
+    "url": "https://www.kmart.com/iview-reg-7inch-android-4.2-dual-core-dual-camera/p-00345934000P?plpSellerId=Kmart&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "SC-999BT",
+    "url": "https://www.kmart.com/supersonic-sc-999bt-9-quad-core-tablet/p-SPM8711536423?plpSellerId=Overstockcom&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeki",
+    "model": "TBDV986W",
+    "url": "https://www.kmart.com/zeki-9inch-tablet-w-dvd-player-8gb-and/p-020W004489406001P?plpSellerId=MyGoods&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10Q8KCMAG",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10q-magenta-10inch-tablet/p-00350599000P?plpSellerId=Kmart&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10KBWB",
+    "url": "https://www.kmart.com/linsay-10inch-kids-blue-funny-tab-with-1.5/p-00358013000P?plpSellerId=Kmart&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSCKBAG",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359821000P?plpSellerId=Kmart&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10KPWP",
+    "url": "https://www.kmart.com/linsay-10inch-kids-pink-funny-tab-with-1.5/p-00358014000P?plpSellerId=Kmart&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Alcatel",
+    "model": "5098S-2BALUS1",
+    "url": "https://www.kmart.com/alcatel-amib01hfd0x7y-alcatel-pixi-4-6-inch-lte/p-SPM9123241102?plpSellerId=zabiva&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBKCOREDW",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359820000P?plpSellerId=Kmart&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBKCOBROWN",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00305982000P?plpSellerId=Kmart&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "iView®",
+    "model": "97085193M",
+    "url": "https://www.kmart.com/iview-reg-7inch-blue-4.2-android-tablet-bundle/p-00345933000P?plpSellerId=Kmart&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "iView®",
+    "model": "97085192M",
+    "url": "https://www.kmart.com/iview-reg-7inch-grey-4.2-android-tablet-bundle/p-00345932000P?plpSellerId=Kmart&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSCRWS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00360980000P?plpSellerId=Kmart&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBCBLUE",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359830000P?plpSellerId=Kmart&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSCPWS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00306098000P?plpSellerId=Kmart&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBCWHITE",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359815000P?plpSellerId=Kmart&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSB",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00305983000P?plpSellerId=Kmart&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSBCUSAS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00359814000P?plpSellerId=Kmart&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XIPSCBWS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1280x800-ips-screen-tablet/p-00360979000P?plpSellerId=Kmart&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME8QIBP16GBMAG",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-quad-core-16gb/p-00355442000P?plpSellerId=Kmart&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "97085017M",
+    "url": "https://www.kmart.com/supersonic-7inch-android-4.1-touch-screen-tablet-with/p-00345941000P?plpSellerId=Kmart&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME10QL16KCMAG",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-10ql-quad-core-16gb/p-00355446000P?plpSellerId=Kmart&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBKCOREDW",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-quad-core-with-red-crocodile/p-00357720000P?plpSellerId=Kmart&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Naxa",
+    "model": "970104829M",
+    "url": "https://www.kmart.com/naxa-970104829m-10.1inch-core-tablet-with-android-os/p-A023584564?plpSellerId=Kmart&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBKCOBLACK",
+    "url": "https://www.kmart.com/linsay-10.1inch-quadcore-exclusive-luxury-bundle-with-black/p-00357632000P?plpSellerId=Kmart&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME8QIBP16GBBLU",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-quad-core-16gb/p-00355443000P?plpSellerId=Kmart&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDCKBAG",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-quad-core-with-black-leather/p-00305797000P?plpSellerId=Kmart&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME8QIBP16GBPRP",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-quad-core-16gb/p-00355445000P?plpSellerId=Kmart&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7KPWP",
+    "url": "https://www.kmart.com/linsay-7inch-kids-purple-funny-tab-with-1.5/p-00357991000P?plpSellerId=Kmart&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDCRWS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1024x600-hd-screen-tablet/p-00360983000P?plpSellerId=Kmart&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "8QIDC16RR",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-red-8inch-quadcore/p-00359410000P?plpSellerId=Kmart&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDKIDSBAGG",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-kids-green-funny-tab-with/p-00357778000P?plpSellerId=Kmart&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7KGWG",
+    "url": "https://www.kmart.com/linsay-7inch-kids-green-funny-tab-with-1.5/p-00358012000P?plpSellerId=Kmart&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "8QIDC16YY",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-royal-blue-8inch/p-00359390000P?plpSellerId=Kmart&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDKIDSBAGB",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-kids-blue-funny-tab-with/p-00305772000P?plpSellerId=Kmart&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDCPWS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1024x600-hd-screen-tablet/p-00360982000P?plpSellerId=Kmart&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDCBWS",
+    "url": "https://www.kmart.com/linsay-10.1inch-quad-core-1024x600-hd-screen-tablet/p-00360981000P?plpSellerId=Kmart&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "8QIDC16PC",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-8qi-chevron-8inch-quadcore/p-00359395000P?plpSellerId=Kmart&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "97085967M",
+    "url": "https://www.kmart.com/supersonic-10.1inch-android-4.2-toucscreen-tablet-with-tv/p-00348444000P?plpSellerId=DiddlyDeals&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Naxa",
+    "model": "NID-1002",
+    "url": "https://www.kmart.com/naxa-10.1inch-core-tm-android-tm-5.1-8gb-tablet-pet/p-SPM8717787114?plpSellerId=MyGoods&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Acer",
+    "model": "NT.LEKAA.002",
+    "url": "https://www.kmart.com/acer-ntlekaa002-7-quot-android-16gb-per-ea/p-A011804391?plpSellerId=MyGoods&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBCWHITE",
+    "url": "https://www.kmart.com/linsay-10.1inch-new-quad-core-with-white-leather/p-00357764000P?plpSellerId=Kmart&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F10XHDBC",
+    "url": "https://www.kmart.com/linsay-cosmos-f-10hd-w-case-bundle/p-00342962000P?plpSellerId=Kmart&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "9SIA7HN50H1976",
+    "url": "https://www.kmart.com/visual-land-prestige-7l-7-inch-tablet-with/p-SPM7086733504?plpSellerId=zabiva&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-8GB-GRN",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-7q-7in-tablet-with/p-00348095000P?plpSellerId=Kmart&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-8GB-RYL",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-7q-7in-tablet-with/p-00348094000P?plpSellerId=Kmart&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-16GB-F-PRP",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-famtab-purple-7inch-with/p-00350620000P?plpSellerId=Kmart&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "iB",
+    "model": "PA0755C",
+    "url": "https://www.kmart.com/ib-sleek-duo-7inch-android-4.1.1-tablet/p-SPM7201251805?plpSellerId=Altatac&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-8GB-MAG",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-7q-7in-tablet-with/p-00348093000P?plpSellerId=Kmart&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-16GB-F-PNK",
+    "url": "https://www.kmart.com/visual-land-prestige-elitefamtab-pink-7inch-with-safety/p-00350596000P?plpSellerId=Kmart&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-7Q-8GB-PRP",
+    "url": "https://www.kmart.com/visual-land-prestige-elite-7q-7in-tablet-with/p-00348097000P?plpSellerId=Kmart&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "ZeepadX8-White",
+    "url": "https://www.kmart.com/zeepad-8inch-zeepad-x8-quad-core-google-android/p-SPM9208043917?plpSellerId=MyGoods&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Tablet",
+    "model": "Y88XPLUSBLBC28192KIT",
+    "url": "https://www.kmart.com/tablet-express-y88xplusblbc28192kit-dragon-touch-y88x-plus-kids/p-SPM8914404829?plpSellerId=Overstockcom&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Visual",
+    "model": "ME-109-D-8GB-BLU",
+    "url": "https://www.kmart.com/prestige-pro-9d-8gb-android-4.2-google-play/p-00347491000P?plpSellerId=Kmart&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORRY",
+    "model": "6INCH-Q-WHT",
+    "url": "https://www.kmart.com/worryfree-gadgets-worryfree-gadgets-6inch-q-wht-6in/p-SPM7830236726?plpSellerId=Tablet World&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDB",
+    "url": "https://www.kmart.com/linsay-7inch-157-linsay-quad-core-bundle-1024x600-hd/p-00345304000P?plpSellerId=Kmart&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Hisense",
+    "model": "854098003418",
+    "url": "https://www.kmart.com/holmes-m470bsa-factory-recertified-sero-7-pro-7/p-SPM10688892120?plpSellerId=Action Packaged Inc&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDKIDSY",
+    "url": "https://www.kmart.com/linsay-7inch-new-kids-dual-core-cpu-1024/p-00348515000P?plpSellerId=Kmart&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDKIDSBAG",
+    "url": "https://www.kmart.com/linsay-7inch-new-kids-quad-core-funny-tab/p-00357809000P?plpSellerId=Kmart&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDKIDSBLUE",
+    "url": "https://www.kmart.com/linsay-7inch-new-kids-funny-tab-w-blue/p-00357814000P?plpSellerId=Kmart&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Ematic",
+    "model": "EGQ347BL",
+    "url": "https://www.kmart.com/ematic-7inch-hd-quad-core-tablet-with-8gb/p-00352558000P?plpSellerId=MyGoods&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORRY",
+    "model": "9XN-Q-WHT",
+    "url": "https://www.kmart.com/worryfree-gadgets-9xnqwht-myepads-zeepad-9inch-8gb-tablet/p-SPM11207112113?plpSellerId=MyGoods&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XIPSCGL",
+    "url": "https://www.kmart.com/linsay-7inch-quad-core-1280x800-ips-screen-tablet/p-00360974000P?plpSellerId=Kmart&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LINSAY",
+    "model": "F7XHDBCBLUEPOLO",
+    "url": "https://www.kmart.com/linsay-7inch-new-quad-core-with-blue-leather/p-00357924000P?plpSellerId=Kmart&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "woPad",
+    "model": "WOPAD-KIDS",
+    "url": "https://www.kmart.com/wopad-kids-new-7inch-kids-tablet-android/p-A011274453?plpSellerId=Tablet World&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Naxa",
+    "model": "ptr-naxnid7015",
+    "url": "https://www.kmart.com/naxa-7inch-core-tm-android-tm-5.1-8gb-tablet-pet/p-SPM8717787514?plpSellerId=MyGoods&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "woPad",
+    "model": "WOPAD-KIDS-GRN",
+    "url": "https://www.kmart.com/wopad-7inch-wopad-kitkat-google-android-4.4-dual/p-SPM9415970317?plpSellerId=Tablet World&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "woPad",
+    "model": "WOPAD-KIDS",
+    "url": "https://www.kmart.com/wopad-kids-new-7inch-kids-tablet-android/p-A011274383?plpSellerId=Tablet World&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "woPad",
+    "model": "WOPAD-KIDS-7Q",
+    "url": "https://www.kmart.com/wopad-new-7inch-kids-tablet-android-5.1-lollipop/p-SPM9436304517?plpSellerId=Tablet World&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "woPad",
+    "model": "WOPAD-KIDS-ORG",
+    "url": "https://www.kmart.com/wopad-7inch-wopad-kitkat-google-android-4.4-dual/p-SPM9415970417?plpSellerId=Tablet World&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "woPad",
+    "model": "WOPAD-KIDS-7Q",
+    "url": "https://www.kmart.com/wopad-new-7inch-kids-tablet-android-5.1-lollipop/p-SPM9436304217?plpSellerId=Tablet World&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "PNK-7DRK-Q-GC",
+    "url": "https://www.kmart.com/zeepad-7inch-zeepad-7drk-q-android-4.4-kitkat/p-SPM9189664917?plpSellerId=Tablet World&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORRY",
+    "model": "kidszeepad-red",
+    "url": "https://www.kmart.com/zeepad-new-7inch-zeepad-kids-android-4.4-kitkat/p-SPM9341981617?plpSellerId=Tablet World&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "BLK-7DRK-Q-BKEY",
+    "url": "https://www.kmart.com/zeepad-7inch-zeepad-7drk-q-android-4.4-quad/p-SPM9189665117?plpSellerId=Tablet World&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORRY",
+    "model": "kidszeepad-pnk",
+    "url": "https://www.kmart.com/zeepad-new-7inch-zeepad-kids-android-4.4-kitkat/p-SPM9341980717?plpSellerId=Tablet World&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORRY",
+    "model": "KIDSZEEPAD-PPL",
+    "url": "https://www.kmart.com/zeepad-new-7inch-zeepad-kids-android-4.4-kitkat/p-SPM9341981517?plpSellerId=Tablet World&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "BLK-7DRKQ-GC",
+    "url": "https://www.kmart.com/zeepad-7inch-zeepad-7drk-q-android-4.4/p-SPM9189664717?plpSellerId=Tablet World&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Allwinner",
+    "model": "7DRKQBLACK",
+    "url": "https://www.kmart.com/worryfree-gadgets-7drk-q-black-worryfree-gadgets-zeepad/p-SPM9879328822?plpSellerId=Tablet World&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WORRY",
+    "model": "7MTK8312-BLK",
+    "url": "https://www.kmart.com/zeepad-new-7mtk-3g-dual-sim-card-android/p-SPM9437216217?plpSellerId=Tablet World&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Zeepad",
+    "model": "7DRK-Q-PPL",
+    "url": "https://www.kmart.com/zeepad-new-7inch-zeepad-7drk-q-android-4.4/p-SPM9189648717?plpSellerId=Tablet World&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Android Tablets",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  }
+]

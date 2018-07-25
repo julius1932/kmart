@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 var URL = require('url-parse');
 var jsonfile = require('jsonfile');
 
-var START_URL = "https://www.kmart.com/tvs-electronics-home-theater-audio-blu-ray-dvd-players-blu-ray-players/b-5000822";
+var START_URL = "https://www.kmart.com/tvs-electronics-home-theater-audio-blu-ray-dvd-players-dvd-players/b-5000823";
 var MAX_PAGES_TO_VISIT = 1000;
 
 var pagesVisited = {};
@@ -13,9 +13,9 @@ var pagesToVisit = [];
 var url = new URL(START_URL);
 var baseUrl = url.protocol + "//" + url.hostname;
 var count=0;
-//pagesToVisit.push({url :START_URL,start:true});
-for(var i=7;i<=12;i++){//12
-    var crrLink="https://www.kmart.com/tvs-electronics-home-theater-audio-blu-ray-dvd-players-blu-ray-players/b-5000822?pageNum="+i;
+pagesToVisit.push({url :START_URL,start:true});
+for(var i=2;i<=4;i++){
+    var crrLink="https://www.kmart.com/tvs-electronics-home-theater-audio-blu-ray-dvd-players-dvd-players/b-5000823?pageNum="+i;
     pagesToVisit.push({url :crrLink,start:true});
 }
 var file='jsonDat.json';
